@@ -101,8 +101,11 @@ transform: scale(1.12);
 
 .about-page-hero-image {
 background-image: url("https://gaietyschool.com/wp-content/uploads/2019/04/main_banner_1.jpg");
-
-
+height: 600px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+width: 100%;
 }
 
 
