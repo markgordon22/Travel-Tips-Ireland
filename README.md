@@ -56,6 +56,8 @@ wishing to travel too Ireland.
 * As a site owner, I want to give the user an opportunity to view a destination they are thinking of visiting to see that destination on google maps.
 * As a site owner, I want to give users grow the company and keep users coming back to the website to book more holidays too Ireland in the future. 
 
+# User requirements and Expectations
+
 
 
 
