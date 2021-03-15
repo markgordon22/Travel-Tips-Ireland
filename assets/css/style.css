@@ -103,3 +103,10 @@ div#text-block-header{
 padding-top: 50px;
 }
 }
+
+@media screen and (min-width: 1224px){
+div#text-block-header{
+padding-top: 130px;
+padding-right: 25px;
+}
+}
