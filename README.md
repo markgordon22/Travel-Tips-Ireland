@@ -30,13 +30,13 @@ wishing to visit Ireland and for Irish people aswell.
 
 # User Goals
 
-* To find contact details for the Travel website.
-* To find an about page where the user can get to know the company and what they strive to achieve.
-* To view the travel destinations that the company are advertising.
-* to find information about the particular destinations being advertised.
-* To see nice imagery of the destinations.
-* To see a map of Ireland to see where the destinations are located for people who are not aware of where the destinations are in Ireland.
-* To see a contact form where they can contact the company about any questions they may have or have in the future.
+* As a user, I want to find contact details for the Travel website.
+* As a user, I want to find an about page where the user can get to know the company and what they strive to achieve.
+* As a user, I want to find the travel destinations that the company are advertising.
+* As a user, I want to find information about the particular destinations being advertised.
+* As a user, I want to find nice imagery of the destinations.
+* As a user, I want to find a map of Ireland to see where the destinations are located for people who are not aware of where the destinations are in Ireland.
+* As a user, I want to find a contact form where they can contact the company about any questions they may have or have in the future.
 
 # User Stories
 
@@ -48,4 +48,4 @@ wishing to visit Ireland and for Irish people aswell.
 * As a user, I want to be engage in an interactive fashion with the website.
 * As a user, I want to be able to contact the site owner with any questions or doubts I may have now or in the future.
 
-
+# 
