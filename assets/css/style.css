@@ -135,3 +135,8 @@ margin-left: 115px;
 #hello-button{
 margin-left: 134px;
 }}
+
+@media screen and (min-width: 414px){
+#hello-button{
+margin-left: 135px;
+}}
