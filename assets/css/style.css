@@ -69,3 +69,9 @@ text-align: center;
 #hello-button:hover {
 transform: scale(1.09);
 }
+
+.button-text {
+font-family: 'Akaya Telivigala', cursive;
+margin-top: 10px;
+
+}
