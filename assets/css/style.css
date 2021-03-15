@@ -110,3 +110,8 @@ padding-top: 130px;
 padding-right: 25px;
 }
 }
+
+@media screen and (max-width: 319.9px){
+#hello-button{
+margin-left: 72px;
+}}
