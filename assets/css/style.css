@@ -40,5 +40,9 @@ transform: scale(1.08);
 
 div.hero-image {
 background-image: url("https://lp-cms-production.imgix.net/2019-06/479710035_high.jpg");
-
+height: 800px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+width: 100%;
 }
