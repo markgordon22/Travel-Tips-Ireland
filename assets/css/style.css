@@ -46,3 +46,9 @@ background-repeat: no-repeat;
 background-size: cover;
 width: 100%;
 }
+
+div#text-block-header{
+text-align: center;
+color: white;
+
+}
