@@ -83,3 +83,17 @@ border-radius: 20px;
 opacity: 0.9;
 text-align: center;
 }
+
+
+
+
+
+
+
+/*---media queries---*/
+@media screen and (max-width: 767.9px){
+div#text-block-header{
+padding-top: 60px;
+font-size: 50px;
+}
+}
