@@ -94,6 +94,10 @@ min-height: 100px;
 width: 100%;
 }
 
+li:hover{
+transform: scale(1.12);
+}
+
 
 
 
