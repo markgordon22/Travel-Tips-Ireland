@@ -25,13 +25,13 @@
 
 ## The project Goal 
 
-The goal of this project is to make a top quality travel website with beautiful imagery of Ireland's tourist hot spots for people 
-wishing to visit Ireland and for Irish people aswell.
+The goal of this project is to make a top quality travel website with beautiful imagery of Ireland's tourist hot spots. The target market is specifically for people from outside of Ireland
+wishing to travel too Ireland.
 
 # User Goals
 
 * As a user, I want to find contact details for the Travel website.
-* As a user, I want to find an about page where the user can get to know the company and what they strive to achieve.
+* As a user, I want to find an about page where the user can read a brief description of Ireland.
 * As a user, I want to find the travel destinations that the company are advertising.
 * As a user, I want to find information about the particular destinations being advertised.
 * As a user, I want to find nice imagery of the destinations.
@@ -42,7 +42,7 @@ wishing to visit Ireland and for Irish people aswell.
 
 * As a user ,I want to visit a website that is easily viewable, navigate around and simplified so I will be educated and informed on the service that is on offer.
 * As a user, I want to see if there are any holiday destinations that I would be interested in travelling too.
-* As a user, I want to see an about page where I can see what the company are about and what they do.
+* As a user, I want to see an about page where I can read a brief description about Ireland.
 * As a user, I want to see images of the destinations that the website are advertising.
 * As a user, I want to see a nice home page welcoming me to the website.
 * As a user, I want to be engage in an interactive fashion with the website.
@@ -50,10 +50,13 @@ wishing to visit Ireland and for Irish people aswell.
 
 # Site Owner Goals
 
-* As a site owner, I want to give users to the site an opportunity to a gateway to contact the site owner about any enquiries they have.
+* As a site owner, I want to give users to the site a gateway to contact the site owner about any enquiries they may have.
 * As a site owner, I want to give the users to the site an opportunity read information about the travel destinations on offer.
-* As a site owner, I want to give users to the site the opportunity to see the imagery of the destinations being advertised
+* As a site owner, I want to give users to the site the opportunity to see the imagery of the destinations being advertised.
+* As a site owner, I want to give the user an opportunity to view a destination they are thinking of visiting to see that destination on google maps.
 * As a site owner, I want to give users grow the company and keep users coming back to the website to book more holidays too Ireland in the future. 
+
+
 
 
 
