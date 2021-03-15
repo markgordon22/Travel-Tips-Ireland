@@ -6,6 +6,10 @@
    border: 0;
 }
 
+.container-fluid {
+width: 100%;
+}
+
 /*---navbar styling---*/
 .navbar {
 font-size: 20px;
@@ -160,3 +164,4 @@ margin-left: 420px;
 #hello-button{
 margin-left: 630px;
 }}
+
