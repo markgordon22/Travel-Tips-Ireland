@@ -5,3 +5,35 @@
    padding: 0;
    border: 0;
 }
+
+/*---navbar styling---*/
+.navbar {
+font-size: 20px;
+border-bottom: 1px solid black;
+}
+
+.navbar-brand {
+font-size: 25px;
+letter-spacing: none;
+color: black;
+font-family: 'Akaya Telivigala', cursive;
+}
+
+.navbar-brand:hover {
+color: black;
+transform: scale(1.12);
+ -webkit-transform: scale(1.03);
+ }
+
+.nav-link{
+color: black;
+font-size: 25px;
+font-family: 'Akaya Telivigala', cursive;
+margin-left: 40px;
+}
+
+.nav-link:hover {
+color: black;
+transform: scale(1.08);
+-webkit-transform: scale(1.08);
+}
