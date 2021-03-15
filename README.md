@@ -56,9 +56,21 @@ wishing to travel too Ireland.
 * As a site owner, I want to give the user an opportunity to view a destination they are thinking of visiting to see that destination on google maps.
 * As a site owner, I want to give users grow the company and keep users coming back to the website to book more holidays too Ireland in the future. 
 
-# User requirements and Expectations
+# User Requirements and Expectations
+
+## Requirements
+
+* To navigate across the website with no problems on all pages and all nav-links to be working as their intended purpose.
+* To be given a brief description of Ireland in the about page.
+* All interactive features such as google maps, buttons and emailjs to be working and operating with no erros or faults.
+* All text to be easily read-able on all devices and all imagery to not be stretched and easily viewable on all devices.
 
 
+
+
+
+
+ 
 
 
 
