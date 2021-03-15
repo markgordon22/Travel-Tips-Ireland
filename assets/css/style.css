@@ -58,4 +58,6 @@ letter-spacing: 1px;
 #hello-button {
 padding: 10px;
 border-radius: 15px;
+font-size: 20px;
+font-family: 'Akaya Telivigala', cursive;
 }
