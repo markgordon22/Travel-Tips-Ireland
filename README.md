@@ -50,4 +50,11 @@ wishing to visit Ireland and for Irish people aswell.
 
 # Site Owner Goals
 
+* As a site owner, I want to give users to the site an opportunity to a gateway to contact the site owner about any enquiries they have.
+* As a site owner, I want to give the users to the site an opportunity read information about the travel destinations on offer.
+* As a site owner, I want to give users to the site the opportunity to see the imagery of the destinations being advertised
+* As a site owner, I want to give users grow the company and keep users coming back to the website to book more holidays too Ireland in the future. 
+
+
+
 
