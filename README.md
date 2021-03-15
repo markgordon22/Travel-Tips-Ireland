@@ -65,6 +65,9 @@ wishing to travel too Ireland.
 * All interactive features such as google maps, buttons and emailjs to be working and operating with no erros or faults.
 * All text to be easily read-able on all devices and all imagery to not be stretched and easily viewable on all devices.
 
+## Expectations
+
+
 
 
 
