@@ -23,3 +23,8 @@
 
 # User Experience
 
+## The project Goal 
+
+The goal of this project is to make a top quality travel website with beautiful imagery of Ireland's tourist hot spots for people 
+wishing to visit Ireland and for Irish people aswell.
+
