@@ -36,7 +36,7 @@ wishing to visit Ireland and for Irish people aswell.
 * to find information about the particular destinations being advertised.
 * To see nice imagery of the destinations.
 * To see a map of Ireland to see where the destinations are located for people who are not aware of where the destinations are in Ireland.
-* To see a contact form where they can contact the company about any questions or queries they may have or have in the future.
+* To see a contact form where they can contact the company about any questions they may have or have in the future.
 
 
 
