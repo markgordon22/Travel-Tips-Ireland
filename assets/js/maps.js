@@ -11,66 +11,65 @@ function initMap() {
 
     { lat: 52.25833,
      lng: -7.11194,
-     content:"waterford",
-    },
+     content:"waterford"},
     //Waterford
 
       { lat:  55.007,
      lng: -7.318268,
-     content:"Derry",
+     content:"Derry"
      },
      //Derry
 
       { lat:  54.26969,
      lng:  -8.46943,
-     content:"Sligo",
+     content:"Sligo"
      },
 
       { lat:  53.350140,
      lng: -6.266155,
-     content:"Dublin",
+     content:"Dublin"
      },
      //Dublin
 
       { lat:  53.43333,
      lng:  -7.95,
-     content:"Athlone",
+     content:"Athlone"
      },
      //Athlone
 
       { lat: 54.65, 
      lng: -8.11667,
-     content:"Donegal",
+     content:"Donegal"
      },
      //Donegal
 
       { lat: 52.061413,
      lng: -9.526437,
-     content:"Kerry",
+     content:"Kerry"
      },
      //Kerry
 
       { lat:  53.270962,
      lng: -9.062691,
-     content:"Galway",
+     content:"Galway"
      },
      //Galway
 
       { lat:  51.903614,
      lng:  -8.468399,
-     content:"Cork",
+     content:"Cork"
      },
      //Cork
 
       { lat:  52.668018,
      lng: -8.630498,
-     content:"Limerick",
+     content:"Limerick"
      },
      //Limerick
 
       { lat:  52.65417,
      lng: -7.25222,
-     content:"Kilkenny",
+     content:"Kilkenny"
      },
      //Kilkenny
 
@@ -133,6 +132,14 @@ function initMap() {
           map.setCenter(place.geometry.location);
           map.setZoom(17);
         }
+         marker.setPosition(place.geometry.location);
+        marker.setVisible(true);
+        infowindowContent.children["place-name"].textContent = place.name;
+        infowindowContent.children["place-address"].textContent = place.formatted_address;
+        
+      });
+
+      }
     
 
 
