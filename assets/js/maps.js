@@ -85,3 +85,4 @@ function initMap() {
 
     const options = {
         fields: ["formatted_address", "geometry", "name"],
+    };
