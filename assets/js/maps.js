@@ -109,3 +109,8 @@ function initMap() {
       map,
       anchorPoint: new google.maps.Point(0, -29),
     });
+
+     const autocomplete = new google.maps.places.Autocomplete(input, options);
+    autocomplete.setComponentRestrictions({
+        country: ["ie","gb"]});
+
