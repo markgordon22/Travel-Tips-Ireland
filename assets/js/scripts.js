@@ -11,3 +11,10 @@ buttons[q].addEventListener("click", function(e){
 e.preventDefault()
 
 var informationelement = buttons[q].previousElementSibling
+if(informationelement.style.display === "none")
+    {
+    informationelement.style.display = "block"
+    }
+    else {
+    informationelement.style.display = "none"
+    }
