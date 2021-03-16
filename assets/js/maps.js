@@ -126,6 +126,10 @@ function initMap() {
         return;
       }
 
+      if (place.geometry.viewport) {
+          map.fitBounds(place.geometry.viewport);
+        }  
+
 
 
 
