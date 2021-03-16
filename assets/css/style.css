@@ -176,7 +176,7 @@ border-radius: 15px;
 #infowindow-content .title {
   font-weight: bolder;
 }
-
+/*---styling from lines 180-201 is from google maps javascript API place autocomplete---*/
 .pac-card {
   margin-top: 20px;
   margin-bottom: 20px;
