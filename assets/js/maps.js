@@ -86,3 +86,18 @@ function initMap() {
     const options = {
         fields: ["formatted_address", "geometry", "name"],
     };
+
+    points.map(point=>{
+          const infowindow = new google.maps.InfoWindow({
+              content: point.content,
+            });
+            const marker = new google.maps.Marker({
+                position: {lat:point.lat,lng:point.lng},
+                map,
+                title: point.content,
+            });
+            marker.addListener("click", () => {
+                infowindow.open(map, marker);
+            });
+            markers.push(marker);
+        });
