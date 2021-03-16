@@ -125,6 +125,13 @@ border: 0px white;
 border-radius: 25px;
 }
 
+.card-img-top {
+height: 300px;
+border-radius: 25px;
+width: 100%;
+cursor: pointer;
+}
+
 
 
 
