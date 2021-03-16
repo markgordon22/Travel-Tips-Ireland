@@ -1,6 +1,6 @@
 //code was taken from google maps api. Code was altered to suit website needs//
 markers=[];
-
+ 
 function initMap() {
     const card = document.getElementById("pac-card");
     const input = document.getElementById("pac-input");
