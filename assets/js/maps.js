@@ -114,4 +114,6 @@ function initMap() {
     autocomplete.setComponentRestrictions({
         country: ["ie","gb"]});
         autocomplete.bindTo("bounds", map);
+        autocomplete.addListener("place_changed", () => {
+
 
