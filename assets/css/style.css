@@ -172,6 +172,10 @@ border: 2px solid black;
 border-radius: 15px;
 }
 
+#infowindow-content .title {
+  font-weight: bolder;
+}
+
 
 
 
