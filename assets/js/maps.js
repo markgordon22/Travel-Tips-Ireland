@@ -75,8 +75,9 @@ function initMap() {
      //Kilkenny
 
     ];
-
-     const map = new google.maps.Map(document.getElementById("map"), {
+    
+    //Map is centred on Ireland 
+    const map = new google.maps.Map(document.getElementById("map"), {
       zoom: 6.55,
       center: {lat:53.5,lng:-7.6},
       zoomControl: true,
