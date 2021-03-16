@@ -110,6 +110,11 @@ width: 100%;
 
 h1#about-text-block-header  {
 text-align: center;
+color: white;
+font-family: 'Akaya Telivigala', cursive;
+font-size: 70px;
+letter-spacing: 1px;
+}
 
 
 
