@@ -9,3 +9,5 @@ var buttons = document.getElementsByClassName("informationbutton")
 for (let q = 0; q<buttons.length; q++) {
 buttons[q].addEventListener("click", function(e){
 e.preventDefault()
+
+var informationelement = buttons[q].previousElementSibling
