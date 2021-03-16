@@ -18,3 +18,6 @@ if(informationelement.style.display === "none")
     else {
     informationelement.style.display = "none"
     }
+
+})
+}
