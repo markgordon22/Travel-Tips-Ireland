@@ -172,11 +172,11 @@ border: 2px solid black;
 border-radius: 15px;
 }
 
+/*---styling from lines 180-201 is from google maps javascript API place autocomplete---*/
 
 #infowindow-content .title {
   font-weight: bolder;
 }
-/*---styling from lines 180-201 is from google maps javascript API place autocomplete---*/
 .pac-card {
   margin-top: 20px;
   margin-bottom: 20px;
@@ -199,6 +199,9 @@ border-radius: 15px;
   font-weight: 500;
   padding: 6px 12px;
 }
+
+#pac-input {
+  background-color: #ffffff;
 
 
 
