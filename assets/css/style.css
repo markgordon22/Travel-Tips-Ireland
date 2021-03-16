@@ -172,8 +172,20 @@ border: 2px solid black;
 border-radius: 15px;
 }
 
+
 #infowindow-content .title {
   font-weight: bolder;
+}
+
+.pac-card {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 2px 0 0 2px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  outline: none;
+  background-color: #ffffff;
+  font-family: 'Akaya Telivigala', cursive;
 }
 
 
