@@ -82,3 +82,6 @@ function initMap() {
       center: {lat:53.5,lng:-7.6},
       zoomControl: true,
     });
+
+    const options = {
+        fields: ["formatted_address", "geometry", "name"],
