@@ -122,6 +122,10 @@ letter-spacing: 1px;
 
 
 
+
+
+
+
 /*---media queries---*/
 @media screen and (max-width: 767.9px){
 div#text-block-header{
@@ -192,4 +196,11 @@ margin-left: 420px;
 #hello-button{
 margin-left: 630px;
 }}
+
+@media screen and (max-width: 1203.9px){
+h1#about-text-block-header  {
+font-size: 50px;
+padding-top: 35px;
+}
+}
 
