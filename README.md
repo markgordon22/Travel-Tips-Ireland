@@ -72,10 +72,12 @@ wishing to travel too Ireland.
 
 # Design Choices
 
-Hero images were inserted on each page of the website. I found that hero images provided great imagery of the beauty that Ireland has to offer.
-The hero images provides user to the website with a sense of captivation looking at the Cliffs of Moher on the home page, Dublin city at night in the about page,
-the Mourne mountains of County Down in the our tips page and the Rock of Cashel in the County Tipperary in the contact page. Consistency in design was important
-for the website. Every page has a footer, navbar, hero image and font-family. [Bootstrapcards](https://getbootstrap.com/docs/5.0/components/card/) as a tool
+Hero images were inserted on each page of the website. I considered the profesional opinions of some software developers on hero images for each
+page of the website to get their take on the design. Their opinions were that it would be a good design. I found that hero images provided 
+great imagery of the beauty that Ireland has to offer. The hero images provides user to the website with a sense of captivation looking at 
+the Cliffs of Moher on the home page, Dublin city at night in the about page,the Mourne mountains of County Down in the our tips page and 
+the Rock of Cashel in the County Tipperary in the contact page. Consistency in design was important for the website. Every page has a footer,
+navbar, hero image and same font-family. [Bootstrapcards](https://getbootstrap.com/docs/5.0/components/card/) was used as a tool
 to display the holiday destinations for the user.
 
 ## Fonts
@@ -89,6 +91,8 @@ Icons for the website were provided by [Font Awesome](https://fontawesome.com/).
 The Icons used included the social media networks for users to contact the site owner. The icons were Facebook, Twitter, Instagram and Youtube.
 
 ## Colours
+
+
 
 
 
