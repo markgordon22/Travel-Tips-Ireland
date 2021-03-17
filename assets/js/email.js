@@ -19,9 +19,11 @@ emailjs.send("service_4b99rtc","template_nllrsno",params)
 
 },
 
-function(error) {
+    function(error) {
             alert("Your email was not sent, please try again");
-            //window.location.reload(true);
+            window.location.reload(true);
         }
+
+
 
 }
