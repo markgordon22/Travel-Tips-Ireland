@@ -267,6 +267,10 @@ color:black;
 font-family: 'Akaya Telivigala', cursive;
 }
 
+.send-message-button:hover {
+transform: scale(1.08);
+}
+
 
 
 
