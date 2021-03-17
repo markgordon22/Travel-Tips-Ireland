@@ -80,10 +80,16 @@ to display the holiday destinations for the user.
 
 ## Fonts
 
-I imported [GoogleFonts](https://getbootstrap.com/docs/5.0/components/card/) for the website. I used the font-family [Akaya Telivigala](https://fonts.google.com/?query=Akaya+Telivigala)
+I imported [Google Fonts](https://getbootstrap.com/docs/5.0/components/card/) for the website. I used the font-family [Akaya Telivigala](https://fonts.google.com/?query=Akaya+Telivigala)
 due to a personal liking to the font-family and found it as an attractive family for the text and heading content.
 
 ## Icons
+
+Icons for the website were provided by [Font Awesome](https://fontawesome.com/). Icons gave an attractive styling for the footer element on each page of the website.
+The Icons used included the social media networks for users to contact the site owner. The icons were Facebook, Twitter, Instagram and Youtube.
+
+
+
 
 
 
