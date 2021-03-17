@@ -12,6 +12,6 @@ var params = {
     };
     
 emailjs.send("service_4b99rtc","template_nllrsno",params)
-
+.then()
 
 }
