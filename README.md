@@ -78,7 +78,9 @@ the Mourne mountains of County Down in the our tips page and the Rock of Cashel 
 for the website. Every page has a footer, navbar, hero image and font-family. [Bootstrapcards](https://getbootstrap.com/docs/5.0/components/card/) as a tool
 to display the holiday destinations for the user.
 
-## Font
+## Fonts
+
+
 
 
 
