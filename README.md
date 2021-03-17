@@ -40,12 +40,12 @@ wishing to travel too Ireland.
 
 # User Stories
 
-* As a user ,I want to visit a website that is easily viewable, navigate around and simplified so I will be educated and informed on the service that is on offer.
+* As a user, I want to visit a website that is easily viewable, easy to navigate around and simplified so I will be informed on the service that is on offer.
 * As a user, I want to see if there are any holiday destinations that I would be interested in travelling too.
 * As a user, I want to see an about page where I can read a brief description about Ireland.
 * As a user, I want to see images of the destinations that the website are advertising.
 * As a user, I want to see a nice home page welcoming me to the website.
-* As a user, I want to be engage in an interactive fashion with the website.
+* As a user, I want to be engaged in an interactive fashion with the website.
 * As a user, I want to be able to contact the site owner with any questions or doubts I may have now or in the future.
 
 # Site Owner Goals
