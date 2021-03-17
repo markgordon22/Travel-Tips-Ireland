@@ -14,6 +14,9 @@ var params = {
 emailjs.send("service_4b99rtc","template_nllrsno",params)
    .then()
         // Alert sent if email successful
+    function(response){
+            alert("Your email has been sent, we will be in touch as soon as possible");
 
+},
 
 }
