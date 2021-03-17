@@ -88,6 +88,8 @@ due to a personal liking to the font-family and found it as an attractive family
 Icons for the website were provided by [Font Awesome](https://fontawesome.com/). Icons gave an attractive styling for the footer element on each page of the website.
 The Icons used included the social media networks for users to contact the site owner. The icons were Facebook, Twitter, Instagram and Youtube.
 
+## Colours
+
 
 
 
