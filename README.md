@@ -61,7 +61,7 @@ wishing to travel too Ireland.
 * To navigate across the website with no problems on all pages and all nav-links to be working as their intended purpose.
 * To be given a brief description of Ireland in the about page.
 * All interactive features such as google maps, buttons and emailjs for the contact form to be working and operating with no erros or faults.
-* All text to be easily read-able on all devices and all imagery to not be stretched and easily viewable on all devices.
+* All text to be easily readable on all devices and all imagery to not be stretched and easily viewable on all devices.
 
 ## Expectations
 
@@ -70,7 +70,7 @@ wishing to travel too Ireland.
 *  Interactive features of the website are all working with no faults or errors.
 *  All text is easily viewable on all devices along with imagery with no stretching on any device.
 
-
+## Design Choices
 
 
 
