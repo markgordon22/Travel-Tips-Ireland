@@ -10,5 +10,8 @@ var params = {
         to: document.getElementById("email-address").value,
         message: document.getElementById("msg").value
     };
+    
+emailjs.send("service_4b99rtc","template_nllrsno",params)
+
 
 }
