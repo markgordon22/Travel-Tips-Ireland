@@ -7,7 +7,7 @@
     * Site Owner Goals
     * User Requirements and Expectations
     * Design Choices
-        * Fonts
+        * Font
         * Icons
         * Colours
         * Images
@@ -75,7 +75,14 @@ wishing to travel too Ireland.
 Hero images were inserted on each page of the website. I found that hero images provided great imagery of the beauty that Ireland has to offer.
 The hero images provides user to the website with a sense of captivation looking at the Cliffs of Moher on the home page, Dublin city at night in the about page,
 the Mourne mountains of County Down in the our tips page and the Rock of Cashel in the County Tipperary in the contact page. Consistency in design was important
-for the website. Every page has a footer, navbar, hero image and font-family.
+for the website. Every page has a footer, navbar, hero image and font-family. [Bootstrapcards](https://getbootstrap.com/docs/5.0/components/card/) as a tool
+to display the holiday destinations for the user.
+
+## Font
+
+
+
+
 
 
 
