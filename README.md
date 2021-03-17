@@ -70,7 +70,7 @@ wishing to travel too Ireland.
 *  Interactive features of the website are all working with no faults or errors.
 *  All text is easily viewable on all devices along with imagery with no stretching on any device.
 
-## Design Choices
+# Design Choices
 
 Hero images were inserted on each page of the website. I found that hero images provided great imagery of the beauty that Ireland has to offer.
 The hero images provides user to the website with a sense of captivation looking at the Cliffs of Moher on the home page, Dublin city at night in the about page,
@@ -80,6 +80,10 @@ to display the holiday destinations for the user.
 
 ## Fonts
 
+I imported [GoogleFonts](https://getbootstrap.com/docs/5.0/components/card/) for the website. I used the font-family [Akaya Telivigala](https://fonts.google.com/?query=Akaya+Telivigala)
+due to a personal liking to the font-family and found it as an attractive family for the text and heading content.
+
+## 
 
 
 
