@@ -83,7 +83,7 @@ to display the holiday destinations for the user.
 I imported [GoogleFonts](https://getbootstrap.com/docs/5.0/components/card/) for the website. I used the font-family [Akaya Telivigala](https://fonts.google.com/?query=Akaya+Telivigala)
 due to a personal liking to the font-family and found it as an attractive family for the text and heading content.
 
-## 
+## Icons
 
 
 
