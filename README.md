@@ -21,14 +21,14 @@
 - [Features left to implement](#features-left-to-implement)
 - [Technologies](#technologies)
 - [Testing](#testing)
-  * [Lighthouse testing](#lighthousetesting)
-  * [Bugs](#Bugs)
+  * [Lighthouse Testing](#lighthouse-testing)
+  * [Bugs](#bugs)
 - [Deployment](#deployment)
 - [Credits](#credits)
-  * [Code](#Code)
-  * [Content](#Content)
-  * [Hero images](#Heroimages)
-  * [About pages](#Aboutpages)
+  * [Code](#code)
+  * [Content](#content)
+  * [Hero images](#hero-images)
+  * [About pages](#about-pages)
   
 
 # User Experience
@@ -207,7 +207,7 @@ Lighthouse was used in Chrome developer tools to measure the performance, seo, a
 
 # Credits
 
-Code
+## Code
 
 * [Bootstrap](https://getbootstrap.com/) used to to make buttons and cards to display holiday destinations
 * [Google Places](https://developers.google.com/maps/documentation/places/web-service/autocomplete) to allow user to search for destinations in Ireland
@@ -215,7 +215,7 @@ Code
 * [Email JS](https://www.emailjs.com/docs/tutorial/creating-contact-form/) used to help create the form and email user will recieve when they successfully complete the form
 * [Youtube](https://www.youtube.com/watch?v=x7Ewtay0Q78&t=517s)
 
-Content
+## Content
 
 * [Dublin content](https://www.visitdublin.com/what-dublin-is-made-of)
 * [Belfast content](https://www.visitbritain.com/gb/en/northern-ireland/belfast)
@@ -230,20 +230,20 @@ Content
 * [kerry content](https://www.discoverireland.ie/kerry)
 * [Kilkenny content](https://visitkilkenny.ie/)
 
-Hero images
+## Hero images
 
 * [home page hero image](https://lp-cms-production.imgix.net/2019-06/479710035_high.jpg)
 * [About pahe hero image](https://gaietyschool.com/wp-content/uploads/2019/04/main_banner_1.jpg)
 * [Our tips hero image](http://static1.squarespace.com/static/545cddf9e4b00403fdcff4eb/58c99a7f86e6c07b2ffc7a00/5ae89852aa4a99ef2fbb1ada/1570353615545/?format=1500w)
 * [Contact page hero image](https://i.pinimg.com/originals/5a/f7/ed/5af7ed231a30a8615f9d2320d370456c.jpg)
 
-About pages
+## About pages
 
 * [Temple Bar image](https://www.fiverr.com/cupantae/take-a-photo-of-any-public-place-in-dublin-city)
 * [Irish people image](https://veramenditx.com/2019/03/st-patricks-day-new-braunfels-2019/)
 * [Coins image](https://www.barrons.com/articles/loose-change-and-the-unanticipated-side-effects-of-covid-19-51594901060)
 
-Our Tips images
+## Our Tips images
 
 * [Belfast](https://meetbelfast.com/plan-your-conference/support-services/)
 * [Kilkenny](https://meetbelfast.com/plan-your-conference/support-services/)
