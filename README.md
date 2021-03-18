@@ -101,15 +101,21 @@ to give a nice contrast to the #ffffff background. I used [coolors](https://cool
 
 Images below were taken from **google images** to style the website with imagery.
 
-* [Home page image](https://github.com/markgordon22/Travel-Tips-Ireland/tree/main/assets/img/img-home)
-* [About page images](https://github.com/markgordon22/Travel-Tips-Ireland/tree/main/assets/img/img-about)
-* [Our Tips images](https://github.com/markgordon22/Travel-Tips-Ireland/tree/main/assets/img/img-ourtips)
-* [Contact page image](https://github.com/markgordon22/Travel-Tips-Ireland/tree/main/assets/img/img-contact)
+* [Home page image](https://github.com/markgordon22/Travel-Tips-Ireland/tree/main/assets/img/img-home).
+* [About page images](https://github.com/markgordon22/Travel-Tips-Ireland/tree/main/assets/img/img-about).
+* [Our Tips images](https://github.com/markgordon22/Travel-Tips-Ireland/tree/main/assets/img/img-ourtips).
+* [Contact page image](https://github.com/markgordon22/Travel-Tips-Ireland/tree/main/assets/img/img-contact).
 
 ## Wireframes
 
 Before using any Technologies for wireframing I started off with a pen paper to get a rough feel of what I wanted the website to look and 
 feel. I spent roughly 2-3 days doing this. I then used [balsamiq](https://balsamiq.com/) to display the finished wireframes for the website.
+
+ * [Home page](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/wireframes/homepage.pdf).
+ * [About page](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/wireframes/aboutpage.pdf).
+ * [Our Tips page](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/wireframes/ourtipspage.pdf).
+ * [Contact page](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/wireframes/contactpage.pdf).
+
  
 
 
