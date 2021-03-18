@@ -101,6 +101,11 @@ to give a nice contrast to the #ffffff background. I used [coolors](https://cool
 
 Images below were taken from **google images** to style the website with imagery.
 
+* [Home page image](https://github.com/markgordon22/Travel-Tips-Ireland/tree/main/assets/img/img-home)
+* [About page images](https://github.com/markgordon22/Travel-Tips-Ireland/tree/main/assets/img/img-about)
+* [Our Tips images](https://github.com/markgordon22/Travel-Tips-Ireland/tree/main/assets/img/img-ourtips)
+* [Contact page image](https://github.com/markgordon22/Travel-Tips-Ireland/tree/main/assets/img/img-contact)
+
 
 
 
