@@ -116,6 +116,8 @@ feel. I spent roughly 2-3 days doing this. I then used [balsamiq](https://balsam
  * [Our Tips page](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/wireframes/ourtipspage.pdf).
  * [Contact page](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/wireframes/contactpage.pdf).
 
+ # Features
+
  
 
 
