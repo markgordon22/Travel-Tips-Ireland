@@ -25,6 +25,10 @@
   * [Bugs](#Bugs)
 - [Deployment](#deployment)
 - [Credits](#credits)
+  * [Code](#Code)
+  * [Content](#content)
+  * [Hero images](#heroimages)
+  * [About pages](#aboutpages)
   
 
 # User Experience
