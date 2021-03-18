@@ -21,7 +21,7 @@
 - [Features left to implement](#features-left-to-implement)
 - [Technologies](#technologies)
 - [Testing](#testing)
-  * [Lighthousetesting](#lighthouse testing)
+  * [Lighthouse testing](#lighthousetesting)
   * [Bugs](#Bugs)
 - [Deployment](#deployment)
 - [Credits](#credits)
