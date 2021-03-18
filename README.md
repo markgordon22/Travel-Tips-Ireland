@@ -213,8 +213,8 @@ Bug 2. Border-top of the footer element along with social media icons on the Our
 far left of the screen rather than in the middle where it was intended.
 Solution: Row class above was missing a closing div element to rap the row
 
-Bug 3. Only myself could fill out the form made by [EmailJS](https://www.emailjs.com/docs/tutorial/creating-contact-form/) as I set the default email address to myself.
-Solution: set the To Email to {{ To }} so that anybody who comes to complete the contact form will receive an email.
+Bug 3. Only myself could fill out the form made by [EmailJS](https://www.emailjs.com/docs/tutorial/creating-contact-form/) and receive an email. I set the default email address to myself in Emailjs.
+Solution: Went to my Email Template and set the To Email(in the top right corner of the template) to {{ To }} so that anybody who comes to complete the contact form will receive an email.
 
 Bug 4. When user completes contact form successfully the page did not refresh after the user clicked the ok button below where it says
 email was sent successfully.
