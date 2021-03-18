@@ -121,6 +121,11 @@ Images below were taken from **google images** to style the website with imagery
 Before using any Technologies for wireframing I started off with a pen paper to get a rough feel of what I wanted the website to look and 
 feel. I spent roughly 2-3 days doing this. I then used [balsamiq](https://balsamiq.com/) to display the finished wireframes for the website.
 
+I made wireframes which I believe equated to good user experiences and expectations. All pages have a simple design and is easy to follow which made
+me think that these were suitable platforms for me to sart building the website. Wireframes are linked below. Wireframes
+for 2 out of the 4 pages import bootstrap cards as it provided a way of displaying an image with a title followed by text in an easy to follow fashion
+for every user. This was a nice and convenient way of advertising the travel destinations.
+
  * [Home page](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/wireframes/homepage.pdf).
  * [About page](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/wireframes/aboutpage.pdf).
  * [Our Tips page](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/wireframes/ourtipspage.pdf).
@@ -226,6 +231,8 @@ Solution: replaced image of the Cliffs of Moher with a less brighter sky so that
 
 Bug 6. Contact page has a beautiful image of the Rock of Cashel which was being blocked by the send message button.
 Solution: Increased the size of the hero image so that the user can see the castle entirely.
+
+
 
 # Deployment
 

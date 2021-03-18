@@ -254,6 +254,7 @@ color: white;
 }
 
 .send-message-button{
+padding: 10px;
 background-color: white;
 color:black;
 font-family: 'Akaya Telivigala', cursive;
