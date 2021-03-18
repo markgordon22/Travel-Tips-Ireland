@@ -266,9 +266,24 @@ a structured email sent that is made with EmailJS templates.
 
 Responsiveness Testing
 
-I tested the responsiveness of the website with the use of devices in the chrome developer tools.
+I tested the responsiveness of the website with the use of devices in the chrome developer tools. 
+They included the following outlined below and checked if it was successfully responsive
 
-* 
+* Moto G4 - 
+* Iphone 4 - 
+* Galaxy s5 -
+* Pixel 2 -
+* Pixel 2 XL -
+* Iphone 5/SE -
+* Iphone 6/7/8 -
+* Iphone 6/7/8 plus -
+* Iphone X -
+* Ipad -
+* Ipad prob -
+* Surface Duo - 
+* Galaxy fold -
+
+Desktop responsiveness - successfull
 
 
 
@@ -310,7 +325,7 @@ I tested the responsiveness of the website with the use of devices in the chrome
 
 ## About pages
 
-* [Temple Bar image](https://www.fiverr.com/cupantae/take-a-photo-of-any-public-place-in-dublin-city)
+* [Street image](https://www.fiverr.com/cupantae/take-a-photo-of-any-public-place-in-dublin-city)
 * [Irish people image](https://veramenditx.com/2019/03/st-patricks-day-new-braunfels-2019/)
 * [Coins image](https://www.barrons.com/articles/loose-change-and-the-unanticipated-side-effects-of-covid-19-51594901060)
 
@@ -322,7 +337,7 @@ I tested the responsiveness of the website with the use of devices in the chrome
 * [Dublin](https://line.17qq.com/articles/oefegefz.html)
 * [Galway](https://acpgroup.ie/)
 * [Donegal](https://www.pinterest.es/pin/637681628463519461/)
-* [Derry](https://www.pinterest.ie/dostlarunutulma/en-g%C3%BCzel-k%C3%B6pr%C3%BClerkaynakonedio/)
+* [Derry](https://www.belfasttelegraph.co.uk/business/northern-ireland/cross-border-boost-for-londonderrys-foyleside-centre-37649702.html)
 * [Limerick](https://www.discoverireland.ie/limerick/king-john-s-castle)
 * [Waterford](https://www.discoverireland.ie/waterford/things-to-do)
 * [Cork](https://www.corkchoral.ie/about/festival-venues/clayton/)
