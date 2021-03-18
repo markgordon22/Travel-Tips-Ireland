@@ -320,7 +320,7 @@ I tested the responsiveness of the website with the use of devices in the chrome
 * [Kilkenny](https://meetbelfast.com/plan-your-conference/support-services/)
 * [Athlone](https://ie.linkedin.com/company/bloomfield-house-hotel-leisure-club-and-spa)
 * [Dublin](https://line.17qq.com/articles/oefegefz.html)
-* [Galway](https://thetalesoftinyboots.com/)
+* [Galway](https://acpgroup.ie/)
 * [Donegal](https://www.pinterest.es/pin/637681628463519461/)
 * [Derry](https://www.pinterest.ie/dostlarunutulma/en-g%C3%BCzel-k%C3%B6pr%C3%BClerkaynakonedio/)
 * [Limerick](https://www.discoverireland.ie/limerick/king-john-s-castle)
