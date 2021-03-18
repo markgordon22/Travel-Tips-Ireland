@@ -32,7 +32,7 @@ wishing to travel too Ireland.
 
 # User Goals
 
-* As a user, I want to find contact details for the Travel website.
+* As a user, I want to find contact details for the travel website.
 * As a user, I want to find an about page where the user can read a brief description of Ireland.
 * As a user, I want to find the travel destinations that the company are advertising.
 * As a user, I want to find information about the particular destinations being advertised.
@@ -171,6 +171,7 @@ Tools
 * [JavaScript linter](https://jshint.com/) testing validator for javascript code
 * [Markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 *  Chrome dev tools to detect bugs in the code.
+* [Am I Responsive](http://ami.responsivedesign.is/) Used to create a mockup of website.
 
 # Testing
 
