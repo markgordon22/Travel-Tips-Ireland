@@ -22,7 +22,7 @@ emailjs.send("service_4b99rtc","template_nllrsno",params)
         // Alert not sent if email was unsuccessful
     function(error) {
             alert("Your email was not sent, please try again");
-            window.location.reload(true);
+            location.reload();
         }
    );
    
