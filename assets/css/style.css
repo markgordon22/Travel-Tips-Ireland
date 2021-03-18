@@ -159,7 +159,7 @@ font-size: 70px;
 padding-top: 50px;
 letter-spacing: 2px;
 }
-
+/*---to render map---*/
 div#map {
 min-height: 460px;
 margin-top: 20px;
@@ -167,7 +167,7 @@ border: 2px solid black;
 border-radius: 15px;
 }
 
-/*---styling from lines 180-201 is from google maps javascript API place autocomplete---*/
+/*---styling from lines 172-211 is from google maps javascript API place autocomplete---*/
 
 #infowindow-content .title {
   font-weight: bolder;
@@ -314,4 +314,3 @@ background-repeat: no-repeat;
 background-size: cover;
 width: 100%;
 }}
-
