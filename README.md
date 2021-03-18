@@ -99,6 +99,8 @@ to give a nice contrast to the #ffffff background. I used [coolors](https://cool
 
 ## Images
 
+Images below were taken from **google images** to style the website with imagery.
+
 
 
 
