@@ -78,7 +78,7 @@ function initMap() {
     
     //Map is centered on Ireland 
     const map = new google.maps.Map(document.getElementById("map"), {
-      zoom: 6.55,
+      zoom: 6.35,
       center: {lat:53.5,lng:-7.6},
       zoomControl: true,
     });
