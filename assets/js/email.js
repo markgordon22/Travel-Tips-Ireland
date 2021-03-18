@@ -17,7 +17,7 @@ emailjs.send("service_4b99rtc","template_nllrsno",params)
         // Alert sent if email successful
     function(response){
             alert("Your email has been sent, we will be in touch as soon as possible");
-
+            location.reload();
 },
         // Alert not sent if email was unsuccessful
     function(error) {
