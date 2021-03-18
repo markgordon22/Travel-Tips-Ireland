@@ -211,6 +211,19 @@ Code
 
 Content
 
+* [Dublin content](https://www.visitdublin.com/what-dublin-is-made-of)
+* [Belfast content](https://www.visitbritain.com/gb/en/northern-ireland/belfast)
+* [Sligo content](https://www.discoverireland.ie/sligo/things-to-do-in-sligo)
+* [Athlone content](https://www.theprinceofwales.ie/local-attractions/)
+* [Derry content](https://derrychoirfest.com/visiting/)
+* [Cork content](https://www.cork-guide.ie/places-to-visit-in-cork.html)
+* [Limerick content](https://www.limerickadventures.com/things-to-do-in-limerick-city/)
+* [Donegal content](https://passionpassport.com/a-guide-to-visiting-donegal-ireland/)
+* [Galway content](https://visitgalway.ie/)
+* [Waterford content](https://visitwaterford.com/)
+* [kerry content](https://www.discoverireland.ie/kerry)
+* [Kilkenny content](https://visitkilkenny.ie/)
+
 
 
 
