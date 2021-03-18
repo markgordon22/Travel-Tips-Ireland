@@ -2,26 +2,26 @@
 
 ![image](wireframes/mockup.png)
 
-* UX
-    * Project Goals
-    * User Goals
-    * User Stories
-    * Site Owner Goals
-    * User Requirements and Expectations
-    * Design Choices
-        * Font
-        * Icons
-        * Colours
-        * Images
-        * Wireframes
-* Features
-    * Features that have been developed developed
-    * Features to implement
-* Technologies
-* Testing
-* Bugs
-* Deployment
-* Credit
+- [Travel-Tips-Ireland](#travel-tips-ireland)
+- [User Experience](#user-experience)
+  * [The project Goal](#the-project-goal)
+- [User Goals](#user-goals)
+- [User Stories](#user-stories)
+- [Site Owner Goals](#site-owner-goals)
+- [User Requirements and Expectations](#user-requirements-and-expectations)
+  * [Requirements](#requirements)
+  * [Expectations](#expectations)
+- [Design Choices](#design-choices)
+  * [Fonts](#fonts)
+  * [Icons](#icons)
+  * [Colours](#colours)
+  * [Images](#images)
+  * [Wireframes](#wireframes)
+- [Features](#features)
+- [Features left to implement](#features-left-to-implement)
+- [Technologies](#technologies)
+- [Testing](#testing)
+- [Credits](#credits)
 
 # User Experience
 
@@ -169,9 +169,10 @@ Tools
 * [HTML validator](https://validator.w3.org/) testing validator for html code
 * [CSS validator](https://validator.w3.org/) testing validator for css code
 * [JavaScript linter](https://jshint.com/) testing validator for javascript code
-* [Markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+* [Markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)help with links to images,content,wireframes and code sources used.
 *  Chrome dev tools to detect bugs in the code.
 * [Am I Responsive](http://ami.responsivedesign.is/) Used to create a mockup of website.
+* [GitHub Wiki TOC generator] to generate own MarkDown TOC online.
 
 # Testing
 
