@@ -1,6 +1,6 @@
 # Travel-Tips-Ireland
 
-![image](wireframes/mockup.png)
+![image](wireframes/mockupimage.png)
 
 # Table of contents
 - [User Experience](#user-experience)
