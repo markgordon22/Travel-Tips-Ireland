@@ -234,6 +234,44 @@ Solution: Increased the size of the hero image so that the user can see the cast
 
 Functionality Testing
 
+Home page
+  
+* Nav links and navbar are operating well when trying to navigate different to parts of the website.
+* Social media icons in the footer element are also operating well if user wishes to contact site owner
+
+About page
+
+* Nav links and navbar are operating well when trying to navigate to different parts of the website.
+* Social media icons in the footer are also operating well if user wants to contact site owner.
+
+Our Tips page
+
+* Nav links and navbar are operating well when trying to navigate to parts of the website.
+* Social media icons in the footer are also operating well.
+* Google map is displaying markers with address and title of the marker displayed to the user. Map consists of easy
+scrolling and shows all markers with the correct longitudes and latitudes of the respective holiday destinations
+being advertised on the website. User can only able to search for places in Ireland and Great Britain in the autocomplete. Great
+Britain must be included in the autocomplete as Belfast and Derry are both part of the gb country component restricition.
+* User can click Bootstrap buttons under the card images to read about a destination in Ireland if they want to find out
+ more about that destination.
+
+ Contact page
+
+* Nav links and navbar are operating well when wanting to navigate to different parts of the website.
+* Social media icons in the footer are also operating well if user wants to contact site owner.
+* User can only complete form once they have filled in the respective inputs. This is done with the of the class="form-control"
+* User once successfully completing the form they receive an email thanking them for choosing Travel Tips Ireland. User gets a
+a structured email sent that is made with EmailJS templates.
+* Page refreshes successfully once user clicks ok button in the modal.
+
+Responsiveness Testing
+
+I tested the responsiveness of the website with the use of devices in the chrome developer tools.
+
+* 
+
+
+
 
 
 # Deployment
@@ -284,7 +322,7 @@ Functionality Testing
 * [Dublin](https://line.17qq.com/articles/oefegefz.html)
 * [Galway](https://thetalesoftinyboots.com/)
 * [Donegal](https://www.pinterest.es/pin/637681628463519461/)
-* [Derry](https://www.nytimes.com/2012/11/18/travel/where-irish-troubles-began-the-arts-heal.html)
+* [Derry](https://www.pinterest.ie/dostlarunutulma/en-g%C3%BCzel-k%C3%B6pr%C3%BClerkaynakonedio/)
 * [Limerick](https://www.discoverireland.ie/limerick/king-john-s-castle)
 * [Waterford](https://www.discoverireland.ie/waterford/things-to-do)
 * [Cork](https://www.corkchoral.ie/about/festival-venues/clayton/)
