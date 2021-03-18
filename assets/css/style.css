@@ -1,3 +1,10 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
 @import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
 
 * {
@@ -25,7 +32,8 @@ font-family: 'Akaya Telivigala', cursive;
 
 .navbar-brand:hover {
 color: black;
-transform: scale(1.12);
+-ms-transform: scale(1.12);
+    transform: scale(1.12);
  -webkit-transform: scale(1.03);
  }
 
@@ -38,7 +46,8 @@ margin-left: 40px;
 
 .nav-link:hover {
 color: black;
-transform: scale(1.03);
+-ms-transform: scale(1.03);
+    transform: scale(1.03);
 -webkit-transform: scale(1.03);
 }
 
@@ -66,7 +75,9 @@ width: 100%;
 }
 
 li:hover{
-transform: scale(1.12);
+-webkit-transform: scale(1.12);
+    -ms-transform: scale(1.12);
+        transform: scale(1.12);
 }
 
 .about-page-hero-image {
@@ -103,7 +114,9 @@ cursor: pointer;
 }
 
 img:hover {
-transform: scale(1.01);
+-webkit-transform: scale(1.01);
+    -ms-transform: scale(1.01);
+        transform: scale(1.01);
 }
 
 .card-title {
@@ -164,7 +177,8 @@ border-radius: 15px;
   margin-top: 20px;
   margin-bottom: 20px;
   border-radius: 2px 0 0 2px;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   -moz-box-sizing: border-box;
   outline: none;
   background-color: #ffffff;
@@ -236,7 +250,9 @@ font-family: 'Akaya Telivigala', cursive;
 }
 
 .send-message-button:hover {
-transform: scale(1.08);
+-webkit-transform: scale(1.08);
+    -ms-transform: scale(1.08);
+        transform: scale(1.08);
 }
 
 /*---media queries---*/
