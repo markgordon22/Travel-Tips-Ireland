@@ -106,7 +106,7 @@ Images below were taken from **google images** to style the website with imagery
 * [Our Tips images](https://github.com/markgordon22/Travel-Tips-Ireland/tree/main/assets/img/img-ourtips)
 * [Contact page image](https://github.com/markgordon22/Travel-Tips-Ireland/tree/main/assets/img/img-contact)
 
-
+## Wireframes
 
 
 
