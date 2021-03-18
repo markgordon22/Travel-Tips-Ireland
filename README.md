@@ -153,7 +153,6 @@ Libraries and Frameworks
 * [Bootstrap](https://getbootstrap.com/)
 * [Font Awesome](https://fontawesome.com/icons)
 * [Google Fonts](https://fonts.google.com/)
-* [Fancybox](https://fancyapps.com/fancybox/3/)
 * [Google Maps API](https://developers.google.com/maps/documentation) Used to create map and autocomplete search input
 * [EmailJS](https://www.emailjs.com/docs/tutorial/creating-contact-form/) to create a contact form with template parameters
 
@@ -176,6 +175,7 @@ Tools
 * [GitHub Wiki TOC generator](https://ecotrust-canada.github.io/markdown-toc/) to generate own MarkDown TOC online.
 
 # Testing
+
 
 
 
