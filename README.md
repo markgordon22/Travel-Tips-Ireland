@@ -1,4 +1,4 @@
-# Travel-Tips-Ireland
+# Travel Tips Ireland
 
 ![image](wireframes/mockupimage.png)
 
@@ -176,22 +176,7 @@ Tools
 
 # Testing
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+I tested the website over the course of its development. I did this by using chrome developer tools in the browser to check for errors in the console
 
 
 # Deployment
@@ -251,6 +236,8 @@ Our Tips images
 * [Cork](https://www.corkchoral.ie/about/festival-venues/clayton/)
 * [Kerry](https://www.discoverireland.ie/wild-atlantic-way/things-to-do)
 * [Sligo](https://www.discoverireland.ie/wild-atlantic-way/things-to-do)
+
+
 
 
 
