@@ -154,7 +154,18 @@ Libraries and Frameworks
 
 Tools 
 
-*
+* [Gitpod](https://www.gitpod.io/) for working on my code
+* [Git](https://git-scm.com/) for version control
+* [Github](https://en.wikipedia.org/wiki/GitHub) hosting files and for deploying website github pages
+* [Balsamiq](https://balsamiq.com/) to do wireframes for repsective devices
+* [Tinypng](https://tinypng.com/) to compress and reduce file size
+* [Autoprefixer](https://autoprefixer.github.io/) to add vendor prefixes to css
+* [HTML freeformatter](https://www.freeformatter.com/html-formatter.html) to beautify html code
+* [HTML validator](https://validator.w3.org/) testing validator for html code
+* [CSS validator](https://validator.w3.org/) testing validator for css code
+* [JavaScript linter](https://jshint.com/) testing validator for javascript code
+* [Markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+*  Chrome dev tools to detect bugs in the code.
 
 
 
