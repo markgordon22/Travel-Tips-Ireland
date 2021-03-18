@@ -287,14 +287,10 @@ Desktop responsiveness - successful
 
 Usability Testing
 
-I Shared the website with friends and family who broke down a couple of things that could be improved on. It was
-mainly the stretching of certain images in the Our Tips page.
-
-
-
-
-
-
+I Shared the website with friends, family and mentor who broke down a couple of things that could be improved on. It was
+mainly the stretching of certain images on the Our Tips page and the lack of responsiveness to the button on the 
+home page on a number of smaller devices which ultimately made me decide to remove it from the website. 
+Usability was tested on phone, tablet and desktop devices. Lighthouse was used in the assistance of combating these issues.
 
 # Deployment
 
