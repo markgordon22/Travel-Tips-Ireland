@@ -1,5 +1,7 @@
 # Travel-Tips-Ireland
 
+![image](wireframes/mockup.png)
+
 * UX
     * Project Goals
     * User Goals
@@ -23,7 +25,7 @@
 
 # User Experience
 
-## The project Goal 
+## The project Goal  
 
 The goal of this project is to make a top quality travel website with beautiful imagery of Ireland's tourist hot spots. The target market is specifically for people from outside of Ireland
 wishing to travel too Ireland.
