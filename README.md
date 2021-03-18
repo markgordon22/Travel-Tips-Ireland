@@ -191,6 +191,7 @@ on phone and other small devices and working my way up to tablets and desktop.
 ## Lighthouse testing
 
 Lighthouse was used in Chrome developer tools to measure the performance, seo, accessibility and best practices of the website
+The only main issue with the lighthouse testing was the performance score of the Our Tips page.
 
 * [Home page desktop testing](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/testing/homepagedesktoptesting.pdf)
 * [Home page mobile testing](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/testing/homepagemobiletesting.pdf)
@@ -202,6 +203,29 @@ Lighthouse was used in Chrome developer tools to measure the performance, seo, a
 * [Contact page mobile testing](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/testing/contactpagemobiletesting.pdf)
 
 ## Bugs
+
+Over the duration of the development of the website came its bugs. The bugs encountered with its solution is outlined below.
+
+Bug 1. Hero image on the home page had a slight margin to the left of the screen.
+Solution: removed Bootstrap container class above the hero image.
+
+Bug 2. Border-top of the footer element along with social media icons on the Our Tips page were positioned to the 
+far left of the screen rather than in the middle where it was intended.
+Solution: Row class above was missing a closing div element to rap the row
+
+Bug 3. Only myself could fill out the form made by [EmailJS](https://www.emailjs.com/docs/tutorial/creating-contact-form/) as I set the default email address to myself.
+Solution: set the To Email to {{ To }} so that anybody who comes to complete the contact form will receive an email.
+
+Bug 4. When user completes contact form successfully the page did not refresh after the user clicked the ok button below where it says
+email was sent successfully.
+Solution: I found a line of code on [w3schools](https://www.w3schools.com/jsref/met_loc_reload.asp) where it reloads the page after user clicks the ok button
+when email is sent.
+
+Bug 5. Heroimage on the home page was originally was an image of the Cliffs of Moher during with bright sky which made heading not readable.
+Solution: replaced image of the Cliffs of Moher with a less brighter sky so that the title can be easily read by visitors to the site.
+
+Bug 6. Contact page has a beautiful image of the Rock of Cashel which was being blocked by the send message button.
+Solution: Increased the size of the hero image so that the user can see the castle entirely.
 
 # Deployment
 
