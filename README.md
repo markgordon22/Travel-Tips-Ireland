@@ -135,7 +135,24 @@ feel. I spent roughly 2-3 days doing this. I then used [balsamiq](https://balsam
 
  # Technologies
 
- 
+ Technologies used
+
+ Frontend
+
+ Languages
+
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/CSS)
+* [Javascript](https://en.wikipedia.org/wiki/JavaScript)
+
+Libraries and Frameworks
+
+* [Bootstrap](https://getbootstrap.com/)
+* [Font Awesome](https://fontawesome.com/icons)
+* [Google Fonts](https://fonts.google.com/)
+* [Fancybox](https://fancyapps.com/fancybox/3/)
+
+
 
 
 
