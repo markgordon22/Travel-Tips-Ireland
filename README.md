@@ -201,6 +201,15 @@ Tools
 
 # Credits
 
+Code
+
+* [Bootstrap](https://getbootstrap.com/) used to to make buttons and cards to display holiday destinations
+* [Google Places](https://developers.google.com/maps/documentation/places/web-service/autocomplete) to allow user to search for destinations in Ireland
+* [W3 Schools](https://www.w3schools.com/jsref/met_loc_reload.asp)received the code window.reload() in order to refresh the page when form is completed
+* [Email JS](https://www.emailjs.com/docs/tutorial/creating-contact-form/) used to help create the form and email user will recieve when they successfully complete the form
+* [Youtube](https://www.youtube.com/watch?v=x7Ewtay0Q78&t=517s)
+
+
 
 
 
