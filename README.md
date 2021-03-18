@@ -21,8 +21,11 @@
 - [Features left to implement](#features-left-to-implement)
 - [Technologies](#technologies)
 - [Testing](#testing)
+  * [Lighthouse testing](#lighthouse testing)
+  * [Bugs](#Bugs)
 - [Deployment](#deployment)
 - [Credits](#credits)
+  
 
 # User Experience
 
@@ -181,7 +184,7 @@ This was a great way to debug the code and pinpointing why the website was not l
 look and feel of the website to get a taste of users likeability with the website. The begining of the website I was focused on getting it up and running
 on phone and other small devices and working my way up to tablets and desktop.
 
-lighthouse testing
+## lighthouse testing
 
 Lighthouse was used in Chrome developer tools to measure the performance, seo, accessibility and best practices of the website
 
@@ -194,10 +197,9 @@ Lighthouse was used in Chrome developer tools to measure the performance, seo, a
 * [Contact page desktop testing](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/testing/contactpagedesktoptesting.pdf)
 * [Contact page mobile testing](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/testing/contactpagemobiletesting.pdf)
 
+## Bugs
+
 # Deployment
-
-
-
 
 # Credits
 
