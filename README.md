@@ -97,6 +97,10 @@ to give a nice contrast to the #ffffff background. I used [coolors](https://cool
 
 ![Color scheme](colorscheme/colorschemeTravelTipsIreland.png)
 
+## Images
+
+
+
 
 
 
