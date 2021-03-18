@@ -108,6 +108,11 @@ Images below were taken from **google images** to style the website with imagery
 
 ## Wireframes
 
+Before using any Technologies for wireframing I started off with a pen paper to get a rough feel of what I wanted the website to look and 
+feel. I spent roughly 2-3 days doing this. I then used [balsamiq](https://balsamiq.com/) to display the finished wireframes for the website.
+ 
+
+
 
 
 
