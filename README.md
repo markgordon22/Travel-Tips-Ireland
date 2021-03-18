@@ -92,7 +92,10 @@ The Icons used included the social media networks for users to contact the site 
 
 ## Colours
 
+The body, navbar and footer on each page has a background hex colour of #ffffff with its text and icon content being a hex color of #000000 
+to give a nice contrast to the #ffffff background. I used [coolors](https://coolors.co/) to portray the colour scheme for the website.
 
+![Color scheme](colorscheme/colorschemeTravelTipsIreland.png)
 
 
 
