@@ -118,7 +118,22 @@ feel. I spent roughly 2-3 days doing this. I then used [balsamiq](https://balsam
 
  # Features
 
+ Features implemented for the website include the following.
+
+ * Simple and easy navigation to geta round the site.
+ * Consistent design.
+ * Contact form for user to contact about potential travel plans.
+ * Google map to show where travel destinations in the website are located.
+ * Google place autocomplete search box for users to search for places in Ireland.
+ * Images - hero images on each page displaying the beauty of Ireland and images of the travel tips for users to look at.
+ * Bootstrap buttons where user clicks it and text will appear. 
+ * Fully responsive on phone, tablet and desktop devices.
+
  
+
+
+
+
 
 
 
