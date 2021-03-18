@@ -176,8 +176,23 @@ Tools
 
 # Testing
 
-I tested the website over the course of its development. I did this by using chrome developer tools in the browser to check for errors in the console
+I tested the website over the course of its development. I did this manually by inspecting the look of the website on all devices provided by chrome.
+This was a great way to debug the code and pinpointing why the website was not looking at its optimum. provide better user experiences. Family and friends were frequent judges of the 
+look and feel of the website to get a taste of users likeability with the website. The begining of the website I was focused on getting it up and running
+on phone and other small devices and working my way up to tablets and desktop.
 
+lighthouse testing
+
+Lighthouse was used in Chrome developer tools to measure the performance, seo, accessibility and best practices of the website
+
+* [Home page desktop testing](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/testing/homepagedesktoptesting.pdf)
+* [Home page mobile testing](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/testing/homepagemobiletesting.pdf)
+* [About page desktop testing](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/testing/aboutpagedesktoptesting.pdf)
+* [About page mobile testing](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/testing/aboutpagemobiletesting.pdf)
+* [Our Tips page desktop testing](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/testing/ourtipspagedesktoptesting.pdf)
+* [Our Tips page mobile testing](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/testing/ourtipspagemobiletesting.pdf)
+* [Contact page desktop testing](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/testing/contactpagedesktoptesting.pdf)
+* [Contact page mobile testing](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/testing/contactpagemobiletesting.pdf)
 
 # Deployment
 
