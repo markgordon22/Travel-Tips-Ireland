@@ -26,9 +26,9 @@
 - [Deployment](#deployment)
 - [Credits](#credits)
   * [Code](#Code)
-  * [Content](#content)
-  * [Hero images](#heroimages)
-  * [About pages](#aboutpages)
+  * [Content](#Content)
+  * [Hero images](#Heroimages)
+  * [About pages](#Aboutpages)
   
 
 # User Experience
