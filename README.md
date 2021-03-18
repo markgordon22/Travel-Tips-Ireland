@@ -267,7 +267,7 @@ a structured email sent that is made with EmailJS templates.
 Responsiveness Testing
 
 I tested the responsiveness of the website with the use of devices in the chrome developer tools. 
-They included the following outlined below and checked if it was successfully responsive
+They included the following outlined below.
 
 * Moto G4 - Successful
 * Iphone 4 - Successful
@@ -279,13 +279,16 @@ They included the following outlined below and checked if it was successfully re
 * Iphone 6/7/8 plus - Successful
 * Iphone X - Successful
 * Ipad - Successful
-* Ipad prob - Successful
+* Ipad pro - Successful
 * Surface Duo - Successful
 * Galaxy fold - Successful
 
 Desktop responsiveness - successful
 
 Usability Testing
+
+I Shared the website with friends and family who broke down a couple of things that could be improved on. It was
+mainly the stretching of certain images in the Our Tips page.
 
 
 
