@@ -224,6 +224,36 @@ Content
 * [kerry content](https://www.discoverireland.ie/kerry)
 * [Kilkenny content](https://visitkilkenny.ie/)
 
+Hero images
+
+* [home page hero image](https://lp-cms-production.imgix.net/2019-06/479710035_high.jpg)
+* [About pahe hero image](https://gaietyschool.com/wp-content/uploads/2019/04/main_banner_1.jpg)
+* [Our tips hero image](http://static1.squarespace.com/static/545cddf9e4b00403fdcff4eb/58c99a7f86e6c07b2ffc7a00/5ae89852aa4a99ef2fbb1ada/1570353615545/?format=1500w)
+* [Contact page hero image](https://i.pinimg.com/originals/5a/f7/ed/5af7ed231a30a8615f9d2320d370456c.jpg)
+
+About pages
+
+* [Temple Bar image](https://www.fiverr.com/cupantae/take-a-photo-of-any-public-place-in-dublin-city)
+* [Irish people image](https://veramenditx.com/2019/03/st-patricks-day-new-braunfels-2019/)
+* [Coins image](https://www.barrons.com/articles/loose-change-and-the-unanticipated-side-effects-of-covid-19-51594901060)
+
+Our Tips images
+
+* [Belfast](https://meetbelfast.com/plan-your-conference/support-services/)
+* [Kilkenny](https://meetbelfast.com/plan-your-conference/support-services/)
+* [Athlone](https://ie.linkedin.com/company/bloomfield-house-hotel-leisure-club-and-spa)
+* [Dublin](https://line.17qq.com/articles/oefegefz.html)
+* [Galway](https://thetalesoftinyboots.com/)
+* [Donegal](https://www.pinterest.es/pin/637681628463519461/)
+* [Derry](https://www.nytimes.com/2012/11/18/travel/where-irish-troubles-began-the-arts-heal.html)
+* [Limerick](https://www.discoverireland.ie/limerick/king-john-s-castle)
+* [Waterford](https://www.discoverireland.ie/waterford/things-to-do)
+* [Cork](https://www.corkchoral.ie/about/festival-venues/clayton/)
+* [Kerry](https://www.discoverireland.ie/wild-atlantic-way/things-to-do)
+* [Sligo](https://www.discoverireland.ie/wild-atlantic-way/things-to-do)
+
+
+
 
 
 
