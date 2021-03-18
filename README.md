@@ -284,7 +284,7 @@ I tested the responsiveness of the website with the use of devices in the chrome
 * [Google Places](https://developers.google.com/maps/documentation/places/web-service/autocomplete) to allow user to search for destinations in Ireland
 * [W3 Schools](https://www.w3schools.com/jsref/met_loc_reload.asp)received the code window.reload() in order to refresh the page when form is completed
 * [Email JS](https://www.emailjs.com/docs/tutorial/creating-contact-form/) used to help create the form and email user will recieve when they successfully complete the form
-* [Youtube](https://www.youtube.com/watch?v=x7Ewtay0Q78&t=517s)
+* [Youtube](https://www.youtube.com/watch?v=x7Ewtay0Q78&t=517s) Tutorial on emailjs and the parameters it uses.
 
 ## Content
 
@@ -304,7 +304,7 @@ I tested the responsiveness of the website with the use of devices in the chrome
 ## Hero images
 
 * [home page hero image](https://lp-cms-production.imgix.net/2019-06/479710035_high.jpg)
-* [About pahe hero image](https://gaietyschool.com/wp-content/uploads/2019/04/main_banner_1.jpg)
+* [About page hero image](https://gaietyschool.com/wp-content/uploads/2019/04/main_banner_1.jpg)
 * [Our tips hero image](http://static1.squarespace.com/static/545cddf9e4b00403fdcff4eb/58c99a7f86e6c07b2ffc7a00/5ae89852aa4a99ef2fbb1ada/1570353615545/?format=1500w)
 * [Contact page hero image](https://i.pinimg.com/originals/5a/f7/ed/5af7ed231a30a8615f9d2320d370456c.jpg)
 
