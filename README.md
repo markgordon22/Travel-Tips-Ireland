@@ -232,6 +232,8 @@ Solution: replaced image of the Cliffs of Moher with a less brighter sky so that
 Bug 6. Contact page has a beautiful image of the Rock of Cashel which was being blocked by the send message button.
 Solution: Increased the size of the hero image so that the user can see the castle entirely.
 
+Functionality Testing
+
 
 
 # Deployment
