@@ -269,19 +269,19 @@ Responsiveness Testing
 I tested the responsiveness of the website with the use of devices in the chrome developer tools. 
 They included the following outlined below and checked if it was successfully responsive
 
-* Moto G4 - 
-* Iphone 4 - 
-* Galaxy s5 -
-* Pixel 2 -
-* Pixel 2 XL -
-* Iphone 5/SE -
-* Iphone 6/7/8 -
-* Iphone 6/7/8 plus -
-* Iphone X -
-* Ipad -
-* Ipad prob -
-* Surface Duo - 
-* Galaxy fold -
+* Moto G4 - Successfull
+* Iphone 4 - Successfull
+* Galaxy s5 - Successfull
+* Pixel 2 - Successfull
+* Pixel 2 XL - Successfull
+* Iphone 5/SE - Successfull
+* Iphone 6/7/8 - Successfull
+* Iphone 6/7/8 plus - Successfull
+* Iphone X - Successfull
+* Ipad - Successfull
+* Ipad prob - Successfull
+* Surface Duo - Successfull
+* Galaxy fold - Successfull
 
 Desktop responsiveness - successfull
 
