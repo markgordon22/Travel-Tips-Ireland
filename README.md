@@ -129,6 +129,10 @@ feel. I spent roughly 2-3 days doing this. I then used [balsamiq](https://balsam
  * Bootstrap buttons where user clicks it and text will appear. 
  * Fully responsive on phone, tablet and desktop devices.
 
+ # Features left to implement
+
+ * None.
+
  
 
 
