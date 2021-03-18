@@ -2,7 +2,7 @@
 
 ![image](wireframes/mockup.png)
 
-- [Travel-Tips-Ireland](#travel-tips-ireland)
+# Table of contents
 - [User Experience](#user-experience)
   * [The project Goal](#the-project-goal)
 - [User Goals](#user-goals)
@@ -12,15 +12,16 @@
   * [Requirements](#requirements)
   * [Expectations](#expectations)
 - [Design Choices](#design-choices)
-  * [Fonts](#fonts)
+  * [Typography](#typography)
   * [Icons](#icons)
   * [Colours](#colours)
-  * [Images](#images)
+  * [Imagery](#imagery)
   * [Wireframes](#wireframes)
 - [Features](#features)
 - [Features left to implement](#features-left-to-implement)
 - [Technologies](#technologies)
 - [Testing](#testing)
+- [Deployment](#deployment)
 - [Credits](#credits)
 
 # User Experience
@@ -82,7 +83,7 @@ the Rock of Cashel in the County Tipperary in the contact page. Consistency in d
 navbar, hero image and same font-family. [Bootstrapcards](https://getbootstrap.com/docs/5.0/components/card/) was used as a tool
 to display the holiday destinations for the user.
 
-## Fonts
+## typography
 
 I imported [Google Fonts](https://getbootstrap.com/docs/5.0/components/card/) for the website. I used the font-family [Akaya Telivigala](https://fonts.google.com/?query=Akaya+Telivigala)
 due to a personal liking to the font-family and found it as an attractive family for the text and heading content.
@@ -99,7 +100,7 @@ to give a nice contrast to the #ffffff background. I used [coolors](https://cool
 
 ![Color scheme](colorscheme/colorschemeTravelTipsIreland.png)
 
-## Images
+## Imagery
 
 Images below were taken from **google images** to style the website with imagery.
 
@@ -169,10 +170,10 @@ Tools
 * [HTML validator](https://validator.w3.org/) testing validator for html code
 * [CSS validator](https://validator.w3.org/) testing validator for css code
 * [JavaScript linter](https://jshint.com/) testing validator for javascript code
-* [Markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)help with links to images,content,wireframes and code sources used.
+* [Markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) help with links to images,content,wireframes and code sources used.
 *  Chrome dev tools to detect bugs in the code.
 * [Am I Responsive](http://ami.responsivedesign.is/) Used to create a mockup of website.
-* [GitHub Wiki TOC generator] to generate own MarkDown TOC online.
+* [GitHub Wiki TOC generator](https://ecotrust-canada.github.io/markdown-toc/) to generate own MarkDown TOC online.
 
 # Testing
 
@@ -189,6 +190,11 @@ Tools
 
 
 
+
+
+
+
+# Deployment
 
 
 
