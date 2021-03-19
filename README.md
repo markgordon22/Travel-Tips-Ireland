@@ -352,7 +352,10 @@ Bootstrap navbar and nav links to go too different pages on the website.
 User is now able to read about a destination in Ireland that they may like to visit by clicking the bootstrap button beneath the image
 of the destination.
 
-3. As a user, I want to see an about page where I can read about Ireland. 
+3. As a user, I want to see an about page where I can read about Ireland.
+
+![User story 3](userstories/Screenshot 2021-03-19 at 03.06.48.png)
+
 
 
 
