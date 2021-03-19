@@ -370,6 +370,13 @@ advertised.
 Users can contact the site owner off of any of the following icons in the footer element over any questions or doubts
 they may have.
 
+6. As a user, I want to see a map of Ireland to see where the destinations are located.
+
+![User story 6](userstories/userstory6.png)
+User can see all of the destinationsare located in Ireland in one map where they can click on the markers to
+the names of it.
+
+
 
 
 
