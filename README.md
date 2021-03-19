@@ -182,7 +182,7 @@ Libraries and Frameworks
 * [Bootstrap](https://getbootstrap.com/)
 * [Font Awesome](https://fontawesome.com/icons)
 * [Google Fonts](https://fonts.google.com/)
-* [Google Maps API](https://developers.google.com/maps/documentation) Used to create map and autocomplete search input
+* [Google Maps API](https://developers.google.com/maps/documentation) Used to create autocomplete search input
 * [EmailJS](https://www.emailjs.com/docs/tutorial/creating-contact-form/) to create a contact form with template parameters
 
 
@@ -241,7 +241,7 @@ Solution: Went to my Email Template and set the To Email(in the top right corner
 Bug 4. When user completes contact form successfully the page did not refresh after the user clicked the ok button below where it says
 email was sent successfully.
 Solution: I found a line of code on [w3schools](https://www.w3schools.com/jsref/met_loc_reload.asp) where it reloads the page after user clicks the ok button
-when email is sent.
+when email is sent in the modal.
 
 Bug 5. Hero image on the home page was originally an image of the Cliffs of Moher with a bright sky which made the heading not readable.
 Solution: replaced image of the Cliffs of Moher with a less brighter sky so that the title can be easily read by users of the site.
@@ -485,7 +485,7 @@ Forking
 * [Belfast](https://meetbelfast.com/plan-your-conference/support-services/)
 * [Kilkenny](https://jrnyon.com/tours/48?category=selfdrive)
 * [Athlone](https://ie.linkedin.com/company/bloomfield-house-hotel-leisure-club-and-spa)
-* [Dublin](https://line.17qq.com/articles/oefegefz.html)
+* [Dublin](https://wetu.com/Itinerary/Landing/3b5e38cb-cf35-c9f2-fcaa-fc64dd4d80c8)
 * [Galway](https://acpgroup.ie/)
 * [Donegal](https://www.pinterest.es/pin/637681628463519461/)
 * [Derry](https://www.belfasttelegraph.co.uk/business/northern-ireland/cross-border-boost-for-londonderrys-foyleside-centre-37649702.html)
