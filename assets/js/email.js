@@ -1,4 +1,3 @@
-//email was made with the help of emailjs//
 function sendMail() {
 var params = {
         from_name: "Travel Tips Ireland",
@@ -11,8 +10,8 @@ var params = {
         to: document.getElementById("email-address").value,
         message: document.getElementById("msg").value
     };
-    
-emailjs.send("service_4b99rtc","template_nllrsno",params)
+  
+  emailjs.send("service_4b99rtc","template_nllrsno",params)
    .then(
         // Alert sent if email successful
     function(response){
