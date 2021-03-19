@@ -57,7 +57,7 @@ wishing to travel too Ireland at some point in the future.
 # User Goals
 
 * As a user, I want to find contact details for the travel website.
-* As a user, I want to find an about page where the user can read a brief description of Ireland.
+* As a user, I want to find an about page where I can read a brief description of Ireland.
 * As a user, I want to find the travel destinations that the company are advertising.
 * As a user, I want to find information about the particular destinations being advertised.
 * As a user, I want to find nice imagery of the destinations.
