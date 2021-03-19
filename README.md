@@ -407,6 +407,10 @@ How To Run This Project With Gitpod:
 5. Add gitpod.io/# at the beginning of the url copied from GitHub.
 6. A new workspace will open up.
 
+How To Run This In A Local IDE:
+
+
+
 
 # Credits
 
