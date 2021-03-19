@@ -400,7 +400,7 @@ The steps below outline how to deploy the website too github pages from github.
 
 How To Run This Project With Gitpod:
 
-1. Open the repository in GitHub markgordon22/Travel Tips Ireland.
+1. Open the repository in GitHub markgordon22/Travel-Tips-Ireland.
 2. Click code button in green on the  right.
 3. Copy the url: 
 4. Copy and paste the url into the url bar of a fresh tab.
@@ -408,6 +408,15 @@ How To Run This Project With Gitpod:
 6. A new workspace will open up.
 
 How To Run This In A Local IDE:
+
+1. Open  repository in GitHub markgordon22/Travel-Tips-Ireland.
+2. Click code button in green on the right.
+3. Copy URL from HTTPS section.
+4. Open terminal in your local IDE.
+5. Change your current working directory to where you wish the cloned file to be saved and allocated.
+6. You then type git clone with the URL you copied from GitHub.
+7. click enter and your own local clone will be created.
+
 
 
 
