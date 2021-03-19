@@ -438,7 +438,11 @@ the names of the destinations.
 * [W3 schools](https://www.w3schools.com/) where I found the window.reload() function and provides great examples to some code
 * [Youtube](https://www.youtube.com/) for tutorials on many aspects of web development.
 
+# Acknowledgements
 
+* My mentor Rohit Sharma for his amazing advice,help and feedback along the way.
+* The tutors at code institute for their amazing help and guidance.
+* The slack community for their great help and motivation
 
 
 
