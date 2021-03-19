@@ -63,7 +63,7 @@ wishing to travel too Ireland at some point in the future.
 * As a site owner, I want to give the users to the site an opportunity read information about the travel destinations on offer.
 * As a site owner, I want to give users to the site the opportunity to see the imagery of the destinations being advertised.
 * As a site owner, I want to give the user an opportunity to view a destination they are thinking of visiting to see that destination on google maps.
-* As a site owner, I want to give users grow the company and keep users coming back to the website to book more holidays too Ireland in the future. 
+* As a site owner, I want to grow the company and keep users coming back to the website to book more holidays too Ireland in the future. 
 
 # User Requirements and Expectations
 
