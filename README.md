@@ -62,7 +62,7 @@ wishing to travel too Ireland at some point in the future.
 * As a user, I want to find information about the particular destinations being advertised.
 * As a user, I want to find nice imagery of the destinations.
 * As a user, I want to find a map of Ireland to see where the destinations are located.
-* As a user, I want to find a contact form where they can contact the company about any questions they may have or have in the future.
+* As a user, I want to find a contact form where I can contact the company about any questions they may have or have in the future.
 
 # User Stories
 
