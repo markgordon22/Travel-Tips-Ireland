@@ -36,7 +36,7 @@
 ## The project Goal  
 
 The goal of this project is to make a top quality travel website with beautiful imagery of places in Ireland. The target market is specifically for people from outside of Ireland
-wishing to travel too Ireland.
+wishing to travel too Ireland at some point in the future.
 
 # User Goals
 
@@ -51,10 +51,11 @@ wishing to travel too Ireland.
 # User Stories
 
 * As a user, I want to visit a website that is easily viewable, easy to navigate around and simplified so I will be informed on the service that is on offer.
-* As a user, I want to see if there are any holiday destinations that I would be interested in travelling too.
+* As a user, I want to read about the holiday destinations that I might be interested in travelling too.
 * As a user, I want to see an about page where I can read a brief description about Ireland.
 * As a user, I want to see images of the destinations that the website are advertising.
 * As a user, I want to be able to contact the site owner with any questions or doubts I may have now or in the future.
+* As a user, I want to see a map of Ireland to see where the destinations are located.
 
 # Site Owner Goals
 
@@ -337,6 +338,18 @@ Javascript validator from [JS Hint](https://jshint.com/)
 | Is website comptabile on these browsers?     |   Yes  |    Yes |  Yes   |
 
 ## Testing User Stories
+
+1. As a user, I want to visit a website that is easily viewable, easy to navigate around and simplified so I will be informed on the service that is on offer.
+
+![User story 1](userstories/userstory1.png)
+User is looking at a website that is simplified, easily viewable with a nice hero image, is easy to navigate around with the use of the
+Bootstrap navbar and nav links to go too different pages on the website.
+
+2. As a user, I want to read about the holiday destinations that I might be interested in travelling too.
+
+
+
+
 
 
 
