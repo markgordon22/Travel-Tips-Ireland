@@ -28,7 +28,7 @@
   * [Code](#code)
   * [Content](#content)
   * [Hero images](#hero-images)
-  * [About pages](#about-pages)
+  * [About images](#about-images)
   
 
 # User Experience
@@ -45,12 +45,12 @@ wishing to travel too Ireland at some point in the future.
 * As a user, I want to find the travel destinations that the company are advertising.
 * As a user, I want to find information about the particular destinations being advertised.
 * As a user, I want to find nice imagery of the destinations.
-* As a user, I want to find a map of Ireland to see where the destinations are located for people who are not aware of where the destinations are in Ireland.
+* As a user, I want to find a map of Ireland to see where the destinations are located.
 * As a user, I want to find a contact form where they can contact the company about any questions they may have or have in the future.
 
 # User Stories
 
-* As a user, I want to visit a website that is easily viewable, easy to navigate around and simplified so I will be informed on the service that is on offer.
+* As a user, I want to visit a website that is easily viewable, easy to navigate around and simplified, so I will be informed on the service that is on offer.
 * As a user, I want to read about the holiday destinations that I might be interested in travelling too.
 * As a user, I want to see an about page where I can read about Ireland.
 * As a user, I want to see images of the destinations that the website are advertising.
@@ -60,7 +60,7 @@ wishing to travel too Ireland at some point in the future.
 # Site Owner Goals
 
 * As a site owner, I want to give users to the site a gateway to contact the site owner about any enquiries they may have.
-* As a site owner, I want to give the users to the site an opportunity read information about the travel destinations on offer.
+* As a site owner, I want to give the users to the site an opportunity to read information about the travel destinations on offer.
 * As a site owner, I want to give users to the site the opportunity to see the images of the destinations being advertised.
 * As a site owner, I want to give the user an opportunity to view a destination they are thinking of visiting, to see that destination on google maps.
 * As a site owner, I want to grow the company and keep users coming back to the website to book more holidays too Ireland in the future. 
@@ -70,14 +70,14 @@ wishing to travel too Ireland at some point in the future.
 
 ## Requirements
 
-* To navigate across the website with no problems on all pages and all nav-links to be working as their intended purpose.
+* To navigate across the website with no problems on all pages and all nav links to be working as their intended purpose.
 * To be given a brief description of Ireland in the about page.
 * All interactive features such as google maps, buttons and emailjs for the contact form to be working and operating with no erros or faults.
 * All text to be easily readable on all devices and all imagery to not be stretched and easily viewable on all devices.
 
 ## Expectations
 
-*  Navigation of the website is working appropriatley on all pages with all nav-links working as per their intended purpose.
+*  Navigation of the website is working appropriatley on all pages with all nav links working as per their intended purpose.
 *  Brief description of Ireland is given in the about page.
 *  Interactive features of the website are all working with no faults or errors.
 *  All text is easily viewable on all devices along with imagery with no stretching on any device.
@@ -115,7 +115,7 @@ Images below were taken from **google images** to style the website with imagery
 
 * [Home page image](https://github.com/markgordon22/Travel-Tips-Ireland/tree/main/assets/img/img-home).
 * [About page images](https://github.com/markgordon22/Travel-Tips-Ireland/tree/main/assets/img/img-about).
-* [Our Tips images](https://github.com/markgordon22/Travel-Tips-Ireland/tree/main/assets/img/img-ourtips).
+* [Our Tips page images](https://github.com/markgordon22/Travel-Tips-Ireland/tree/main/assets/img/img-ourtips).
 * [Contact page image](https://github.com/markgordon22/Travel-Tips-Ireland/tree/main/assets/img/img-contact).
 
 ## Wireframes
@@ -124,9 +124,9 @@ Before using any Technologies for wireframing I started off with a pen paper to 
 feel. I spent roughly 2-3 days doing this. I then used [balsamiq](https://balsamiq.com/) to display the finished wireframes for the website.
 
 I made wireframes which I believe equated to good user experiences and expectations. All pages have a simple design and is easy to follow which made
-me think that these were suitable platforms for me to sart building the website. Wireframes are linked below. Wireframes
+me think that these were suitable platforms for me to start building the website. Wireframes are linked below. Wireframes
 for 2 out of the 4 pages import bootstrap cards as it provided a way of displaying an image with a title followed by text in an easy to follow fashion
-for every user. This was a nice and convenient way of advertising the travel destinations.
+for every user. This was a nice and convenient way of advertising the holiday destinations.
 
  * [Home page](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/wireframes/homepage.pdf).
  * [About page](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/wireframes/aboutpage.pdf).
@@ -137,7 +137,7 @@ for every user. This was a nice and convenient way of advertising the travel des
 
  Features implemented for the website include the following.
 
- * Simple and easy navigation to geta round the site.
+ * Simple and easy navigation to get around the site.
  * Consistent design.
  * Contact form for user to contact about potential travel plans.
  * Google map to show where travel destinations in the website are located.
@@ -153,8 +153,6 @@ for every user. This was a nice and convenient way of advertising the travel des
  # Technologies
 
  Technologies used
-
- Frontend
 
  Languages
 
@@ -175,8 +173,8 @@ Tools
 
 * [Gitpod](https://www.gitpod.io/) for working on my code
 * [Git](https://git-scm.com/) for version control
-* [Github](https://en.wikipedia.org/wiki/GitHub) hosting files and for deploying website github pages
-* [Balsamiq](https://balsamiq.com/) to do wireframes for repsective devices
+* [Github](https://en.wikipedia.org/wiki/GitHub) hosting files and for deploying website too github pages
+* [Balsamiq](https://balsamiq.com/) to do wireframes for respective devices
 * [Tinypng](https://tinypng.com/) to compress and reduce file size
 * [Autoprefixer](https://autoprefixer.github.io/) to add vendor prefixes to css
 * [HTML freeformatter](https://www.freeformatter.com/html-formatter.html) to beautify html code
@@ -197,7 +195,7 @@ on phone and other small devices and working my way up to tablets and desktop.
 
 ## Lighthouse testing
 
-Lighthouse was used in Chrome developer tools to measure the performance, seo, accessibility and best practices of the website
+Lighthouse was used in Chrome developer tools to measure the performance, seo, accessibility and best practices of the website.
 The only main issue with the lighthouse testing was the performance score of the Our Tips page.
 
 * [Home page desktop testing](https://github.com/markgordon22/Travel-Tips-Ireland/blob/main/testing/homepagedesktoptesting.pdf)
@@ -228,31 +226,31 @@ email was sent successfully.
 Solution: I found a line of code on [w3schools](https://www.w3schools.com/jsref/met_loc_reload.asp) where it reloads the page after user clicks the ok button
 when email is sent.
 
-Bug 5. Heroimage on the home page was originally was an image of the Cliffs of Moher during with bright sky which made heading not readable.
-Solution: replaced image of the Cliffs of Moher with a less brighter sky so that the title can be easily read by visitors to the site.
+Bug 5. Hero image on the home page was originally an image of the Cliffs of Moher with a bright sky which made the heading not readable.
+Solution: replaced image of the Cliffs of Moher with a less brighter sky so that the title can be easily read by users of the site.
 
-Bug 6. Contact page has a beautiful image of the Rock of Cashel which was being blocked by the send message button.
+Bug 6. Contact page has a beautiful image of the Rock of Cashel which was being blocked by the send message button on small devices.
 Solution: Increased the size of the hero image so that the user can see the castle entirely.
 
 ## Functionality Testing
 
 **Home page**
   
-* Nav links and navbar are operating well when trying to navigate different to parts of the website.
+* Nav links and navbar are operating well when trying to navigate too different parts of the website.
 * Social media icons in the footer element are also operating well if user wishes to contact site owner
 
 **About page**
 
-* Nav links and navbar are operating well when trying to navigate to different parts of the website.
+* Nav links and navbar are operating well when trying to navigate too different parts of the website.
 * Social media icons in the footer are also operating well if user wants to contact site owner.
 
 **Our Tips page**
 
-* Nav links and navbar are operating well when trying to navigate to parts of the website.
+* Nav links and navbar are operating well when trying to navigate too different parts of the website.
 * Social media icons in the footer are also operating well.
 * Google map is displaying markers with address and title of the marker displayed to the user. Map consists of easy
 scrolling and shows all markers with the correct longitudes and latitudes of the respective holiday destinations
-being advertised on the website. User can only able to search for places in Ireland and Great Britain in the autocomplete. Great
+being advertised on the website. User is only able to search for places in Ireland and Great Britain in the autocomplete. Great
 Britain must be included in the autocomplete as Belfast and Derry are both part of the gb country component restricition.
 * User can click Bootstrap buttons under the card images to read about a destination in Ireland if they want to find out
  more about that destination.
@@ -261,8 +259,8 @@ Britain must be included in the autocomplete as Belfast and Derry are both part 
 
 * Nav links and navbar are operating well when wanting to navigate to different parts of the website.
 * Social media icons in the footer are also operating well if user wants to contact site owner.
-* User can only complete form once they have filled in the respective inputs. This is done with the of the class="form-control"
-* User once successfully completing the form they receive an email thanking them for choosing Travel Tips Ireland. User gets a
+* User can only complete form once they have filled in the respective inputs. This is done with the class="form-control"
+* User once successfully completing the form will receive an email thanking them for choosing Travel Tips Ireland. User gets a
 a structured email sent that is made with EmailJS templates.
 * Page refreshes successfully once user clicks ok button in the modal.
 
@@ -367,8 +365,9 @@ advertised.
 5. As a user, I want to be able to contact the site owner with any questions or doubts I may have now or in the future.
 
 ![User story 5](userstories/userstory5.png)
+![User story 5.1](userstories/userstory5.1.png)
 Users can contact the site owner off of any of the following icons in the footer element over any questions or doubts
-they may have.
+they may have with the use of the social media icons and/or contact form.
 
 6. As a user, I want to see a map of Ireland to see where the destinations are located.
 
@@ -377,6 +376,8 @@ User can see all of the destinationsare located in Ireland in one map where they
 the names of it.
 
 # Deployment
+
+
 
 # Credits
 
@@ -410,7 +411,7 @@ the names of it.
 * [Our tips hero image](http://static1.squarespace.com/static/545cddf9e4b00403fdcff4eb/58c99a7f86e6c07b2ffc7a00/5ae89852aa4a99ef2fbb1ada/1570353615545/?format=1500w)
 * [Contact page hero image](https://i.pinimg.com/originals/5a/f7/ed/5af7ed231a30a8615f9d2320d370456c.jpg)
 
-## About pages
+## About images
 
 * [Street image](https://www.fiverr.com/cupantae/take-a-photo-of-any-public-place-in-dublin-city)
 * [Irish people image](https://veramenditx.com/2019/03/st-patricks-day-new-braunfels-2019/)
