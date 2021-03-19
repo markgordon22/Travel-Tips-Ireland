@@ -202,7 +202,7 @@ Tools
 *  Chrome dev tools to detect bugs in the code.
 * [Am I Responsive](http://ami.responsivedesign.is/) Used to create a mockup of website.
 * [GitHub Wiki TOC generator](https://ecotrust-canada.github.io/markdown-toc/) to generate own MarkDown TOC online.
-
+* [CSS formatter](https://www.cleancss.com/css-beautify/)
 # Testing
 
 I tested the website over the course of its development. I did this manually by inspecting the look of the website on all devices provided by chrome.
@@ -439,6 +439,7 @@ The steps below outline how to deploy the website too github pages from github.
 7. click enter and your own local clone will be created.
 
 Forking
+
 
 
 
