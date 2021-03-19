@@ -2,7 +2,6 @@
 markers=[];
  
 function initMap() {
-    const card = document.getElementById("pac-card");
     const input = document.getElementById("pac-input");
     const points = [
     {lat: 54.607868,
