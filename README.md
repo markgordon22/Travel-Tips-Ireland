@@ -429,5 +429,16 @@ the names of the destinations.
 * [Kerry](https://www.discoverireland.ie/wild-atlantic-way/things-to-do)
 * [Sligo](https://www.discoverireland.ie/wild-atlantic-way/things-to-do)
 
-## 
+## Resources
+
+* [Bootstrap](https://getbootstrap.com/) to make cards, buttons and navbar.
+* [EmailJS](https://www.emailjs.com/) to make email template.
+* Code Institute course materials to allow me refer back to course material.
+* [Google places API](https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete-multiple-countries) for adding API to website.
+* [W3 schools](https://www.w3schools.com/) where I found the window.reload() function and provides great examples to some code
+* [Youtube](https://www.youtube.com/) for tutorials on many aspects of web development.
+
+
+
+
 
