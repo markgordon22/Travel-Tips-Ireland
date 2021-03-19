@@ -379,6 +379,14 @@ the names of the destinations.
 
 # Deployment
 
+This website was made with gitpod which is a cloud based IDE. Code was pushed to github by using the following commands outlined below.
+
+1. git add
+2. git status
+3. git commit -m "message of reason of commit goes here"
+4. git push.
+
+
 
 
 # Credits
