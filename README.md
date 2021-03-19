@@ -324,6 +324,11 @@ CSS validator from [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 ## Compatability Testing
 
+| Compatability tests                         | Chrome | Firefox | Edge |
+| --------------------------------------------| ------ | ------- | ---- |
+| Is website comptabile on these browsers     |   Yes  |    Yes |  Yes   |
+
+
 
 
 # Deployment
