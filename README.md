@@ -368,6 +368,9 @@ advertised.
 ![User story 5.1](userstories/userstory5.1.png)
 Users can contact the site owner off over any questions or doubts they may have with the use of the social media icons and/or contact form.
 
+![User story 5.2](userstories/userstory5.2.png)
+User will receive this formatted email after they successfully complete the form in the contact page.
+
 6. As a user, I want to see a map of Ireland to see where the destinations are located.
 
 ![User story 6](userstories/userstory6.png)
@@ -375,6 +378,8 @@ User can see all of the destinations are located in Ireland in one map where the
 the names of the destinations.
 
 # Deployment
+
+
 
 # Credits
 
@@ -442,7 +447,7 @@ the names of the destinations.
 
 * My mentor Rohit Sharma for his amazing advice,help and feedback along the way.
 * The tutors at code institute for their amazing help and guidance.
-* The slack community for their great help and motivation
+* The slack community for their great help and motivation.
 
 
 
