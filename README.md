@@ -321,6 +321,11 @@ No errors
 CSS validator from [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 ![CSS validator](testing/cssvalidator.png)
+
+## Compatability Testing
+
+
+
 # Deployment
 
 # Credits
@@ -364,7 +369,7 @@ CSS validator from [CSS Validator](https://jigsaw.w3.org/css-validator/)
 ## Our Tips images
 
 * [Belfast](https://meetbelfast.com/plan-your-conference/support-services/)
-* [Kilkenny](https://meetbelfast.com/plan-your-conference/support-services/)
+* [Kilkenny](https://jrnyon.com/tours/48?category=selfdrive)
 * [Athlone](https://ie.linkedin.com/company/bloomfield-house-hotel-leisure-club-and-spa)
 * [Dublin](https://line.17qq.com/articles/oefegefz.html)
 * [Galway](https://acpgroup.ie/)
