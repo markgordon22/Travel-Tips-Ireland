@@ -348,6 +348,11 @@ Bootstrap navbar and nav links to go too different pages on the website.
 
 2. As a user, I want to read about the holiday destinations that I might be interested in travelling too.
 
+![User story 2](userstories/userstory2.png)
+User is now able to read about a destination in Ireland that they may like to visit by clicking the bootstrap button beneath the image
+of the destination.
+
+
 
 
 
