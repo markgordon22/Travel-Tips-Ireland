@@ -532,4 +532,4 @@ By forking the repository you can now make a copy of the repository to a github 
 * The tutors at code institute for their amazing help and guidance.
 * The slack community for their great help and motivation.
 
-**Disclaimer for educational purposes only**
+**Disclaimer! for educational purposes only**
