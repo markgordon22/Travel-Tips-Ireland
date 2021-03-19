@@ -279,9 +279,9 @@ They included the following outlined below.
 * Iphone 6/7/8 plus - Successful
 * Iphone X - Successful
 * Ipad - Successful
-* Ipad pro - Successful
+* Ipad Pro - Successful
 * Surface Duo - Successful
-* Galaxy fold - Successful
+* Galaxy Fold - Successful
 
 Desktop responsiveness - successful
 
@@ -334,7 +334,7 @@ Javascript validator from [JS Hint](https://jshint.com/)
 
 | Compatability tests                         | Chrome | Firefox | Edge |
 | --------------------------------------------| ------ | ------- | ---- |
-| Is website comptabile on these browsers?     |   Yes  |    Yes |  Yes   |
+| Is website compatable on these browsers?     |   Yes  |    Yes |  Yes   |
 
 ## Testing User Stories
 
@@ -342,7 +342,7 @@ Javascript validator from [JS Hint](https://jshint.com/)
 
 ![User story 1](userstories/userstory1.png)
 User is looking at a website that is simplified, easily viewable with a nice hero image, is easy to navigate around with the use of the
-Bootstrap navbar and nav links to go too different pages on the website.
+Bootstrap navbar and nav links too go to different pages on the website.
 
 2. As a user, I want to read about the holiday destinations that I might be interested in travelling too.
 
@@ -359,34 +359,31 @@ below the images.
 4. As a user, I want to see images of the destinations that the website are advertising.
 
 ![User story 4](userstories/userstory4.png)
-Images are based in the Our tips page where users can see all of the images of the destinations in Ireland being
+Images are based in the Our Tips page where users can see all of the images of the destinations in Ireland being
 advertised.
 
 5. As a user, I want to be able to contact the site owner with any questions or doubts I may have now or in the future.
 
 ![User story 5](userstories/userstory5.png)
 ![User story 5.1](userstories/userstory5.1.png)
-Users can contact the site owner off of any of the following icons in the footer element over any questions or doubts
-they may have with the use of the social media icons and/or contact form.
+Users can contact the site owner off over any questions or doubts they may have with the use of the social media icons and/or contact form.
 
 6. As a user, I want to see a map of Ireland to see where the destinations are located.
 
 ![User story 6](userstories/userstory6.png)
-User can see all of the destinationsare located in Ireland in one map where they can click on the markers to
-the names of it.
+User can see all of the destinations are located in Ireland in one map where they can click on the markers to see
+the names of the destinations.
 
 # Deployment
-
-
 
 # Credits
 
 ## Code
 
-* [Bootstrap](https://getbootstrap.com/) used to to make buttons and cards to display holiday destinations
+* [Bootstrap](https://getbootstrap.com/) used to make buttons and cards to display holiday destinations
 * [Google Places](https://developers.google.com/maps/documentation/places/web-service/autocomplete) to allow user to search for destinations in Ireland
-* [W3 Schools](https://www.w3schools.com/jsref/met_loc_reload.asp)received the code window.reload() in order to refresh the page when form is completed
-* [Email JS](https://www.emailjs.com/docs/tutorial/creating-contact-form/) used to help create the form and email user will recieve when they successfully complete the form
+* [W3 Schools](https://www.w3schools.com/jsref/met_loc_reload.asp) received the code window.reload() in order to refresh the page when form is completed
+* [Email JS](https://www.emailjs.com/docs/tutorial/creating-contact-form/) used to help create the form and email which user will receive when they successfully complete the form
 * [Youtube](https://www.youtube.com/watch?v=x7Ewtay0Q78&t=517s) Tutorial on emailjs and the parameters it uses.
 
 ## Content
@@ -408,16 +405,16 @@ the names of it.
 
 * [home page hero image](https://lp-cms-production.imgix.net/2019-06/479710035_high.jpg)
 * [About page hero image](https://gaietyschool.com/wp-content/uploads/2019/04/main_banner_1.jpg)
-* [Our tips hero image](http://static1.squarespace.com/static/545cddf9e4b00403fdcff4eb/58c99a7f86e6c07b2ffc7a00/5ae89852aa4a99ef2fbb1ada/1570353615545/?format=1500w)
+* [Our Tips hero image](http://static1.squarespace.com/static/545cddf9e4b00403fdcff4eb/58c99a7f86e6c07b2ffc7a00/5ae89852aa4a99ef2fbb1ada/1570353615545/?format=1500w)
 * [Contact page hero image](https://i.pinimg.com/originals/5a/f7/ed/5af7ed231a30a8615f9d2320d370456c.jpg)
 
-## About images
+## About page images
 
 * [Street image](https://www.fiverr.com/cupantae/take-a-photo-of-any-public-place-in-dublin-city)
 * [Irish people image](https://veramenditx.com/2019/03/st-patricks-day-new-braunfels-2019/)
 * [Coins image](https://www.barrons.com/articles/loose-change-and-the-unanticipated-side-effects-of-covid-19-51594901060)
 
-## Our Tips images
+## Our Tips page images
 
 * [Belfast](https://meetbelfast.com/plan-your-conference/support-services/)
 * [Kilkenny](https://jrnyon.com/tours/48?category=selfdrive)
@@ -431,4 +428,6 @@ the names of it.
 * [Cork](https://www.corkchoral.ie/about/festival-venues/clayton/)
 * [Kerry](https://www.discoverireland.ie/wild-atlantic-way/things-to-do)
 * [Sligo](https://www.discoverireland.ie/wild-atlantic-way/things-to-do)
+
+## 
 
