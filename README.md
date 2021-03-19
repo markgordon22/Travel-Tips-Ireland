@@ -292,6 +292,8 @@ mainly the stretching of certain images on the Our Tips page and the lack of res
 home page on a number of smaller devices which ultimately made me decide to remove it from the website. 
 Usability was tested on phone, tablet and desktop devices. Lighthouse was used in the assistance of combating these issues.
 
+HTML Validator from [HTML validator](testing/ourtipspagehtmlvalidator.png)
+
 Home page
 
 No errors
@@ -315,6 +317,10 @@ Contact page
 No errors
 
 ![Contact page](testing/contactpagehtmlvalidator.png)
+
+CSS validator from [CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+![CSS validator](testing/cssvalidator.png)
 # Deployment
 
 # Credits
