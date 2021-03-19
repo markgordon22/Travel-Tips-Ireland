@@ -23,13 +23,30 @@
 - [Testing](#testing)
   * [Lighthouse Testing](#lighthouse-testing)
   * [Bugs](#bugs)
+  * [Functionality Testing](#functionality-testing)
+  * [Responsiveness Testing](#functionality-testing)
+  * [Usability Testing](#usability-testing)
+  * [Testing Validators](#testing-validators)
+  * [Compatability Testing](#compatability-testing)
+  * [Testing User Stories](#testing-user-stories)
 - [Deployment](#deployment)
+  * [Deploy website to Github pages](#deploy-website-to-github-pages)
+  * [Run Project With Gitpod](#run-project-with-gitpod)
+  * [How to Run This In A Local IDE](#how-to-run-this-in-a-local-ide)
+  * [Forking](#forking)
+
+
+
 - [Credits](#credits)
   * [Code](#code)
   * [Content](#content)
   * [Hero images](#hero-images)
   * [About images](#about-images)
-  
+  * [Our Tips pages images](#our-tips-pages-images)
+  * [Resources](#resources)
+
+- [Acknowledgements](#acknowledgements)
+
 
 # User Experience
 
@@ -285,12 +302,14 @@ They included the following outlined below.
 
 Desktop responsiveness - successful
 
-**Usability Testing**
+## Usability Testing
 
 I Shared the website with friends, family and mentor who broke down a couple of things that could be improved on. It was
 mainly the stretching of certain images on the Our Tips page and the lack of responsiveness to the button on the 
 home page on a number of smaller devices which ultimately made me decide to remove it from the website. 
 Usability was tested on phone, tablet and desktop devices. Lighthouse was used in the assistance of combating these issues.
+
+## Testing Validators
 
 HTML Validator from [HTML validator](testing/ourtipspagehtmlvalidator.png)
 
@@ -386,6 +405,8 @@ This website was made with gitpod which is a cloud based IDE. Code was pushed to
 3. git commit -m "message of reason of commit goes here"
 4. git push.
 
+## Deploy website to Github Pages
+
 The steps below outline how to deploy the website too github pages from github.
 
 1. Type github into browser
@@ -398,7 +419,7 @@ The steps below outline how to deploy the website too github pages from github.
 8. Click to confirm using the save button on the right
 9. Travel Tips Ireland is now live on github pages
 
-How To Run This Project With Gitpod:
+## Run Project With Gitpod
 
 1. Open the repository in GitHub markgordon22/Travel-Tips-Ireland.
 2. Click code button in green on the  right.
@@ -407,7 +428,7 @@ How To Run This Project With Gitpod:
 5. Add gitpod.io/# at the beginning of the url copied from GitHub.
 6. A new workspace will then open up.
 
-How to Run This In A Local IDE:
+## How to Run This In A Local IDE
 
 1. Open  repository in GitHub markgordon22/Travel-Tips-Ireland.
 2. Click code button in green on the right.
@@ -418,12 +439,6 @@ How to Run This In A Local IDE:
 7. click enter and your own local clone will be created.
 
 Forking
-
-
-
-
-
-
 
 
 
