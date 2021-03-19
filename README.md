@@ -376,17 +376,6 @@ they may have.
 User can see all of the destinationsare located in Ireland in one map where they can click on the markers to
 the names of it.
 
-
-
-
-
-
-
-
-
-
-
-
 # Deployment
 
 # Credits
@@ -441,41 +430,4 @@ the names of it.
 * [Cork](https://www.corkchoral.ie/about/festival-venues/clayton/)
 * [Kerry](https://www.discoverireland.ie/wild-atlantic-way/things-to-do)
 * [Sligo](https://www.discoverireland.ie/wild-atlantic-way/things-to-do)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
 
