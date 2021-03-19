@@ -294,25 +294,25 @@ Usability was tested on phone, tablet and desktop devices. Lighthouse was used i
 
 Home page
 
-No erros
+No errors
 
 ![Home page html validator](testing/homepagehtmlvalidator.png)
 
 About page
 
-No erros
+No errors
 
 ![About page html validator](testing/aboutpagehtmlvalidator.png)
 
 Our Tips page
 
-No erros
+No errors
 
 ![Our Tips html validator](testing/ourtipspagehtmlvalidator.png)
 
 Contact page
 
-No erros
+No errors
 
 ![Contact page](testing/contactpagehtmlvalidator.png)
 # Deployment
