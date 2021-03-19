@@ -398,6 +398,7 @@ The steps below outline how to deploy the website too github pages from github.
 8. Click to confirm using the save button on the right
 9. Travel Tips Ireland is now live on github pages
 
+How To Run This Project With Gitpod:
 
 
 
