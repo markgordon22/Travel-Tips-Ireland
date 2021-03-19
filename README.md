@@ -352,6 +352,12 @@ Javascript validator from [JS Hint](https://jshint.com/)
 
 **Javascript folder in the assets folder**
 
+No errors
+
+![Google Maps API](testing/jshintgooglemaps.png)
+![Email JS](testing/jshintemailjs.png)
+![Scripts js](testing/jshintscripts.png)
+
 ## Compatability Testing
 
 | Compatability tests                         | Chrome | Firefox | Edge |
