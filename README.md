@@ -353,9 +353,11 @@ Javascript validator from [JS Hint](https://jshint.com/)
 **Javascript folder in the assets folder**
 
 No errors
-
+**maps.js**
 ![Google Maps API](testing/jshintgooglemaps.png)
+**Email.jS**
 ![Email JS](testing/jshintemailjs.png)
+**Scripts.js
 ![Scripts js](testing/jshintscripts.png)
 
 I thought for scripts.js that there was an error on line 21, however after consulting with tutor support they said that
