@@ -358,6 +358,18 @@ of the destination.
 Users can now have a read about Ireland and the perks it has for people to visit Ireland in the text content
 below the images.
 
+4. As a user, I want to see images of the destinations that the website are advertising.
+
+![User story 4](userstories/userstory4.png)
+Images are based in the Our tips page where users can see all of the images of the destinations in Ireland being
+advertised.
+
+5. As a user, I want to be able to contact the site owner with any questions or doubts I may have now or in the future.
+
+![User story 5](userstories/userstory5.png)
+Users can contact the site owner off of any of the following icons in the footer element over any questions or doubts
+they may have.
+
 
 
 
