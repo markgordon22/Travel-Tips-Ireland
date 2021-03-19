@@ -448,8 +448,6 @@ By forking the repository you can now make a copy of the repository to a github 
  2. On the very right of the page you will see a fork button just below the navbar and above the settings button.
  3. You now have a copy of the original repository in your github account which you can alter and make changes.
 
-
-
 # Credits
 
 ## Code
