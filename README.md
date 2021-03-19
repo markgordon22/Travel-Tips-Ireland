@@ -189,8 +189,8 @@ Tools
 # Testing
 
 I tested the website over the course of its development. I did this manually by inspecting the look of the website on all devices provided by chrome.
-This was a great way to debug the code and pinpointing why the website was not looking at its optimum. provide better user experiences. Family and friends were frequent judges of the 
-look and feel of the website to get a taste of users likeability with the website. The begining of the website I was focused on getting it up and running
+This was a great way to debug the code and pinpointing why the website was not looking at its optimum to provide better user experiences. Family and friends were frequent judges of the 
+look and feel of the website to get a taste of users likeability with the website. At the begining of the website I was focused on getting it up and running
 on phone and other small devices and working my way up to tablets and desktop.
 
 ## Lighthouse testing
@@ -232,19 +232,19 @@ Solution: replaced image of the Cliffs of Moher with a less brighter sky so that
 Bug 6. Contact page has a beautiful image of the Rock of Cashel which was being blocked by the send message button.
 Solution: Increased the size of the hero image so that the user can see the castle entirely.
 
-Functionality Testing
+## Functionality Testing
 
-Home page
+**Home page**
   
 * Nav links and navbar are operating well when trying to navigate different to parts of the website.
 * Social media icons in the footer element are also operating well if user wishes to contact site owner
 
-About page
+**About page**
 
 * Nav links and navbar are operating well when trying to navigate to different parts of the website.
 * Social media icons in the footer are also operating well if user wants to contact site owner.
 
-Our Tips page
+**Our Tips page**
 
 * Nav links and navbar are operating well when trying to navigate to parts of the website.
 * Social media icons in the footer are also operating well.
@@ -255,7 +255,7 @@ Britain must be included in the autocomplete as Belfast and Derry are both part 
 * User can click Bootstrap buttons under the card images to read about a destination in Ireland if they want to find out
  more about that destination.
 
- Contact page
+**Contact page**
 
 * Nav links and navbar are operating well when wanting to navigate to different parts of the website.
 * Social media icons in the footer are also operating well if user wants to contact site owner.
@@ -264,7 +264,7 @@ Britain must be included in the autocomplete as Belfast and Derry are both part 
 a structured email sent that is made with EmailJS templates.
 * Page refreshes successfully once user clicks ok button in the modal.
 
-Responsiveness Testing
+## Responsiveness Testing
 
 I tested the responsiveness of the website with the use of devices in the chrome developer tools. 
 They included the following outlined below.
@@ -285,7 +285,7 @@ They included the following outlined below.
 
 Desktop responsiveness - successful
 
-Usability Testing
+**Usability Testing**
 
 I Shared the website with friends, family and mentor who broke down a couple of things that could be improved on. It was
 mainly the stretching of certain images on the Our Tips page and the lack of responsiveness to the button on the 
@@ -294,25 +294,25 @@ Usability was tested on phone, tablet and desktop devices. Lighthouse was used i
 
 HTML Validator from [HTML validator](testing/ourtipspagehtmlvalidator.png)
 
-Home page
+**Home page**
 
 No errors
 
 ![Home page html validator](testing/homepagehtmlvalidator.png)
 
-About page
+**About page**
 
 No errors
 
 ![About page html validator](testing/aboutpagehtmlvalidator.png)
 
-Our Tips page
+**Our Tips page**
 
 No errors
 
 ![Our Tips html validator](testing/ourtipspagehtmlvalidator.png)
 
-Contact page
+**Contact page**
 
 No errors
 
@@ -320,16 +320,19 @@ No errors
 
 CSS validator from [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
+**CSS stylesheet in the assets folder**
+
+No erros
+
 ![CSS validator](testing/cssvalidator.png)
+
+
 
 ## Compatability Testing
 
 | Compatability tests                         | Chrome | Firefox | Edge |
 | --------------------------------------------| ------ | ------- | ---- |
 | Is website comptabile on these browsers?     |   Yes  |    Yes |  Yes   |
-
-
-
 
 # Deployment
 
