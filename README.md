@@ -52,7 +52,7 @@ wishing to travel too Ireland at some point in the future.
 
 * As a user, I want to visit a website that is easily viewable, easy to navigate around and simplified so I will be informed on the service that is on offer.
 * As a user, I want to read about the holiday destinations that I might be interested in travelling too.
-* As a user, I want to see an about page where I can read a brief description about Ireland.
+* As a user, I want to see an about page where I can read about Ireland.
 * As a user, I want to see images of the destinations that the website are advertising.
 * As a user, I want to be able to contact the site owner with any questions or doubts I may have now or in the future.
 * As a user, I want to see a map of Ireland to see where the destinations are located.
@@ -61,9 +61,10 @@ wishing to travel too Ireland at some point in the future.
 
 * As a site owner, I want to give users to the site a gateway to contact the site owner about any enquiries they may have.
 * As a site owner, I want to give the users to the site an opportunity read information about the travel destinations on offer.
-* As a site owner, I want to give users to the site the opportunity to see the imagery of the destinations being advertised.
-* As a site owner, I want to give the user an opportunity to view a destination they are thinking of visiting to see that destination on google maps.
+* As a site owner, I want to give users to the site the opportunity to see the images of the destinations being advertised.
+* As a site owner, I want to give the user an opportunity to view a destination they are thinking of visiting, to see that destination on google maps.
 * As a site owner, I want to grow the company and keep users coming back to the website to book more holidays too Ireland in the future. 
+* As a site owner, I want to give the user a chance to read about Ireland in the about page.
 
 # User Requirements and Expectations
 
