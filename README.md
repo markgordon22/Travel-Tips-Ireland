@@ -354,7 +354,10 @@ of the destination.
 
 3. As a user, I want to see an about page where I can read about Ireland.
 
-![User story 3](userstories/Screenshot 2021-03-19 at 03.06.48.png)
+![User story 3](userstories/userstory3.png)
+Users can now have a read about Ireland and the perks it has for people to visit Ireland in the text content
+below the images.
+
 
 
 
