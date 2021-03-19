@@ -26,7 +26,7 @@
   * [Lighthouse Testing](#lighthouse-testing)
   * [Bugs](#bugs)
   * [Functionality Testing](#functionality-testing)
-  * [Responsiveness Testing](#functionality-testing)
+  * [Responsiveness Testing](#responsiveness-testing)
   * [Usability Testing](#usability-testing)
   * [Testing Validators](#testing-validators)
   * [Compatability Testing](#compatability-testing)
@@ -36,15 +36,12 @@
   * [Run Project With Gitpod](#run-project-with-gitpod)
   * [How to Run This In A Local IDE](#how-to-run-this-in-a-local-ide)
   * [Forking](#forking)
-
-
-
 - [Credits](#credits)
   * [Code](#code)
   * [Content](#content)
   * [Hero images](#hero-images)
-  * [About images](#about-images)
-  * [Our Tips pages images](#our-tips-pages-images)
+  * [About page images](#about-page-images)
+  * [Our Tips page images](#our-tips-page-images)
   * [Resources](#resources)
 
 - [Acknowledgements](#acknowledgements)
@@ -369,7 +366,7 @@ regardless if it stands as an error.
 
 | Compatability tests                         | Chrome | Firefox | Edge |
 | --------------------------------------------| ------ | ------- | ---- |
-| Is website compatable on these browsers?     |   Yes  |    Yes |  Yes   |
+| Is the website compatable on these browsers?     |   Yes  |    Yes |  Yes   |
 
 ## Testing User Stories
 
@@ -501,7 +498,7 @@ By forking the repository you can now make a copy of the repository to a github 
 * [Irish people image](https://veramenditx.com/2019/03/st-patricks-day-new-braunfels-2019/)
 * [Coins image](https://www.barrons.com/articles/loose-change-and-the-unanticipated-side-effects-of-covid-19-51594901060)
 
-## Our Tips page images
+## Our tips page images
 
 * [Belfast](https://meetbelfast.com/plan-your-conference/support-services/)
 * [Kilkenny](https://jrnyon.com/tours/48?category=selfdrive)
