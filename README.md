@@ -358,6 +358,11 @@ No errors
 ![Email JS](testing/jshintemailjs.png)
 ![Scripts js](testing/jshintscripts.png)
 
+I thought for scripts.js that there was an error on line 21, however after consulting with tutor support they said that
+was how the code should be run even though it came up as an error. For emailJS I also thought that I was receiving an error until I contacted
+tutor support that for function sendMail() is just not getting called within the jshint and should be there
+regardless if it stands as an error.
+
 ## Compatability Testing
 
 | Compatability tests                         | Chrome | Firefox | Edge |
