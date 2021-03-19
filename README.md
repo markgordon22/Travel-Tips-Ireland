@@ -235,7 +235,7 @@ Bug 2. Border-top of the footer element along with social media icons on the Our
 far left of the screen rather than in the middle where it was intended.
 Solution: Row class above was missing a closing div element to rap the row
 
-Bug 3. Only myself could fill out the form made by [EmailJS](https://www.emailjs.com/docs/tutorial/creating-contact-form/) and receive an email. I set the default email address to myself in Emailjs.
+Bug 3. Only I could fill out the form made by [EmailJS](https://www.emailjs.com/docs/tutorial/creating-contact-form/) and receive an email. I set the default email address to myself in Emailjs.
 Solution: Went to my Email Template and set the To Email(in the top right corner of the template) to {{ To }} so that anybody who comes to complete the contact form will receive an email.
 
 Bug 4. When user completes contact form successfully the page did not refresh after the user clicked the ok button below where it says
@@ -350,17 +350,21 @@ Javascript validator from [JS Hint](https://jshint.com/)
 **Javascript folder in the assets folder**
 
 No errors
+
 **maps.js**
+
 ![Google Maps API](testing/jshintgooglemaps.png)
+
 **Email.jS**
+
 ![Email JS](testing/jshintemailjs.png)
-**Scripts.js
+
+**Scripts.js**
+
 ![Scripts js](testing/jshintscripts.png)
 
 I thought for scripts.js that there was an error on line 21, however after consulting with tutor support they said that
-was how the code should be run even though it came up as an error. For emailJS I also thought that I was receiving an error until I contacted
-tutor support that for function sendMail() is just not getting called within the jshint and should be there
-regardless if it stands as an error.
+was how the code should be run even though it came up as an error.
 
 ## Compatability Testing
 
@@ -527,6 +531,3 @@ By forking the repository you can now make a copy of the repository to a github 
 * My mentor Rohit Sharma for his amazing advice,help and feedback along the way.
 * The tutors at code institute for their amazing help and guidance.
 * The slack community for their great help and motivation.
-
-
-
