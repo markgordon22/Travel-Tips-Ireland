@@ -386,6 +386,18 @@ This website was made with gitpod which is a cloud based IDE. Code was pushed to
 3. git commit -m "message of reason of commit goes here"
 4. git push.
 
+The steps below outline how to deploy the website too github pages from github.
+
+1. Type github into browser
+2. Sign in with username and password
+3. Select repository you want to deploy github pages
+4. Select Travel Tips Ireland repository
+5. Select settings based on the far right of the menu
+6. Scroll down settings where you will see get to github pages towards the bottom of the page
+7. Select main branch from the drop menu that is provided
+8. Click to confirm using the save button on the right
+9. Travel Tips Ireland is now live on github pages
+
 
 
 
