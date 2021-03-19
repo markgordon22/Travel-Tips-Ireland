@@ -35,7 +35,7 @@
 
 ## The project Goal  
 
-The goal of this project is to make a top quality travel website with beautiful imagery of Ireland's tourist hot spots. The target market is specifically for people from outside of Ireland
+The goal of this project is to make a top quality travel website with beautiful imagery of places in Ireland. The target market is specifically for people from outside of Ireland
 wishing to travel too Ireland.
 
 # User Goals
@@ -322,19 +322,22 @@ CSS validator from [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 **CSS stylesheet in the assets folder**
 
-No erros
+No errors
 
 ![CSS validator](testing/cssvalidator.png)
 
 Javascript validator from [JS Hint](https://jshint.com/)
 
-**Javascript folder in the assets folder
+**Javascript folder in the assets folder**
 
 ## Compatability Testing
 
 | Compatability tests                         | Chrome | Firefox | Edge |
 | --------------------------------------------| ------ | ------- | ---- |
 | Is website comptabile on these browsers?     |   Yes  |    Yes |  Yes   |
+
+## Testing User Stories
+
 
 
 
