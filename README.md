@@ -203,6 +203,7 @@ Tools
 * [Am I Responsive](http://ami.responsivedesign.is/) Used to create a mockup of website.
 * [GitHub Wiki TOC generator](https://ecotrust-canada.github.io/markdown-toc/) to generate own MarkDown TOC online.
 * [CSS formatter](https://www.cleancss.com/css-beautify/)
+
 # Testing
 
 I tested the website over the course of its development. I did this manually by inspecting the look of the website on all devices provided by chrome.
@@ -438,8 +439,14 @@ The steps below outline how to deploy the website too github pages from github.
 6. You then type 'git clone' with the URL you copied off of GitHub.
 7. click enter and your own local clone will be created.
 
-Forking
+## Forking
 
+By forking the repository you can now make a copy of the repository to a github account to view, inspect without affecting or changing
+ the original respository. There are three steps involved in forking.
+
+ 1. Log into github with respective username and password and locate the repository that contains the project you wish to fork.
+ 2. On the very right of the page you will see a fork button just below the navbar and above the settings button.
+ 3. You now have a copy of the original repository in your github account which you can alter and make changes.
 
 
 
