@@ -402,7 +402,7 @@ advertised.
 
 ![User story 5](userstories/userstory5.png)
 ![User story 5.1](userstories/userstory5.1.png)
-Users can contact the site owner off over any questions or doubts they may have with the use of the social media icons and/or contact form.
+Users can contact the site owner over any questions or doubts they may have with the use of the social media icons and/or contact form.
 
 ![User story 5.2](userstories/userstory5.2.png)
 User will receive this formatted email after they successfully complete the form in the contact page.
@@ -531,3 +531,5 @@ By forking the repository you can now make a copy of the repository to a github 
 * My mentor Rohit Sharma for his amazing advice,help and feedback along the way.
 * The tutors at code institute for their amazing help and guidance.
 * The slack community for their great help and motivation.
+
+**Disclaimer for educational purposes only**
